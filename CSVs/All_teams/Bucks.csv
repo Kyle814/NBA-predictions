@@ -1,0 +1,95 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win
+0,Tue Oct 19 2021,7:30p,Brooklyn Nets,104,Milwaukee Bucks,127,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+14,Thu Oct 21 2021,8:00p,Milwaukee Bucks,95,Miami Heat,137,0,19600.0,FTX Arena,Miami Heat,True
+31,Sat Oct 23 2021,8:30p,Milwaukee Bucks,121,San Antonio Spurs,111,0,14353.0,AT&T Center,Milwaukee Bucks,False
+41,Mon Oct 25 2021,7:00p,Milwaukee Bucks,119,Indiana Pacers,109,0,10339.0,Gainbridge Fieldhouse,Milwaukee Bucks,False
+59,Wed Oct 27 2021,8:00p,Minnesota Timberwolves,113,Milwaukee Bucks,108,0,17341.0,Fiserv Forum,Minnesota Timberwolves,False
+84,Sat Oct 30 2021,8:00p,San Antonio Spurs,102,Milwaukee Bucks,93,0,17341.0,Fiserv Forum,San Antonio Spurs,False
+90,Sun Oct 31 2021,7:00p,Utah Jazz,107,Milwaukee Bucks,95,0,17341.0,Fiserv Forum,Utah Jazz,False
+102,Tue Nov 2 2021,7:00p,Milwaukee Bucks,117,Detroit Pistons,89,0,9254.0,Little Caesars Arena,Milwaukee Bucks,False
+126,Fri Nov 5 2021,7:30p,New York Knicks,113,Milwaukee Bucks,98,0,17341.0,Fiserv Forum,New York Knicks,False
+142,Sun Nov 7 2021,6:00p,Milwaukee Bucks,94,Washington Wizards,101,0,15570.0,Capital One Arena,Washington Wizards,True
+154,Tue Nov 9 2021,7:30p,Milwaukee Bucks,118,Philadelphia 76ers,109,0,20029.0,Wells Fargo Center,Milwaukee Bucks,False
+161,Wed Nov 10 2021,7:30p,Milwaukee Bucks,112,New York Knicks,100,0,18027.0,Madison Square Garden (IV),Milwaukee Bucks,False
+174,Fri Nov 12 2021,7:30p,Milwaukee Bucks,113,Boston Celtics,122,1,19156.0,TD Garden,Boston Celtics,True
+192,Sun Nov 14 2021,6:00p,Milwaukee Bucks,100,Atlanta Hawks,120,0,16901.0,State Farm Arena,Atlanta Hawks,True
+217,Wed Nov 17 2021,7:30p,Los Angeles Lakers,102,Milwaukee Bucks,109,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+233,Fri Nov 19 2021,8:00p,Oklahoma City Thunder,89,Milwaukee Bucks,96,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+243,Sat Nov 20 2021,8:00p,Orlando Magic,108,Milwaukee Bucks,117,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+257,Mon Nov 22 2021,8:00p,Orlando Magic,92,Milwaukee Bucks,123,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+272,Wed Nov 24 2021,8:00p,Detroit Pistons,93,Milwaukee Bucks,114,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+287,Fri Nov 26 2021,9:00p,Milwaukee Bucks,120,Denver Nuggets,109,0,19520.0,Ball Arena,Milwaukee Bucks,False
+300,Sun Nov 28 2021,5:00p,Milwaukee Bucks,118,Indiana Pacers,100,0,13130.0,Gainbridge Fieldhouse,Milwaukee Bucks,False
+323,Wed Dec 1 2021,8:00p,Charlotte Hornets,125,Milwaukee Bucks,127,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+328,Thu Dec 2 2021,7:30p,Milwaukee Bucks,93,Toronto Raptors,97,0,19800.0,Scotiabank Arena,Toronto Raptors,True
+343,Sat Dec 4 2021,8:00p,Miami Heat,102,Milwaukee Bucks,124,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+357,Mon Dec 6 2021,8:00p,Cleveland Cavaliers,104,Milwaukee Bucks,112,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+369,Wed Dec 8 2021,7:30p,Milwaukee Bucks,104,Miami Heat,113,0,19600.0,FTX Arena,Miami Heat,True
+385,Fri Dec 10 2021,8:00p,Milwaukee Bucks,123,Houston Rockets,114,0,16319.0,Toyota Center,Milwaukee Bucks,False
+397,Sun Dec 12 2021,12:00p,Milwaukee Bucks,112,New York Knicks,97,0,19812.0,Madison Square Garden (IV),Milwaukee Bucks,False
+407,Mon Dec 13 2021,7:30p,Milwaukee Bucks,103,Boston Celtics,117,0,19156.0,TD Garden,Boston Celtics,True
+419,Wed Dec 15 2021,8:00p,Indiana Pacers,99,Milwaukee Bucks,114,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+433,Fri Dec 17 2021,8:00p,Milwaukee Bucks,112,New Orleans Pelicans,116,1,15504.0,Smoothie King Center,New Orleans Pelicans,True
+443,Sat Dec 18 2021,9:00p,Cleveland Cavaliers,119,Milwaukee Bucks,90,0,17341.0,Fiserv Forum,Cleveland Cavaliers,False
+464,Wed Dec 22 2021,8:00p,Houston Rockets,106,Milwaukee Bucks,126,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+472,Thu Dec 23 2021,8:30p,Milwaukee Bucks,102,Dallas Mavericks,95,0,19654.0,American Airlines Center,Milwaukee Bucks,False
+479,Sat Dec 25 2021,2:30p,Boston Celtics,113,Milwaukee Bucks,117,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+498,Tue Dec 28 2021,7:00p,Milwaukee Bucks,127,Orlando Magic,110,0,16696.0,Amway Center,Milwaukee Bucks,False
+515,Thu Dec 30 2021,7:00p,Milwaukee Bucks,136,Orlando Magic,118,0,15855.0,Amway Center,Milwaukee Bucks,False
+527,Sat Jan 1 2022,6:30p,New Orleans Pelicans,113,Milwaukee Bucks,136,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+544,Mon Jan 3 2022,8:00p,Detroit Pistons,115,Milwaukee Bucks,106,0,17341.0,Fiserv Forum,Detroit Pistons,False
+561,Wed Jan 5 2022,8:00p,Toronto Raptors,117,Milwaukee Bucks,111,0,17341.0,Fiserv Forum,Toronto Raptors,False
+571,Fri Jan 7 2022,7:30p,Milwaukee Bucks,121,Brooklyn Nets,109,0,17732.0,Barclays Center,Milwaukee Bucks,False
+580,Sat Jan 8 2022,7:00p,Milwaukee Bucks,106,Charlotte Hornets,114,0,19139.0,Spectrum Center,Charlotte Hornets,True
+595,Mon Jan 10 2022,7:00p,Milwaukee Bucks,99,Charlotte Hornets,103,0,14253.0,Spectrum Center,Charlotte Hornets,True
+617,Thu Jan 13 2022,7:30p,Golden State Warriors,99,Milwaukee Bucks,118,0,17848.0,Fiserv Forum,Milwaukee Bucks,True
+631,Sat Jan 15 2022,6:30p,Toronto Raptors,103,Milwaukee Bucks,96,0,17341.0,Fiserv Forum,Toronto Raptors,False
+651,Mon Jan 17 2022,6:00p,Milwaukee Bucks,114,Atlanta Hawks,121,0,16903.0,State Farm Arena,Atlanta Hawks,True
+665,Wed Jan 19 2022,8:00p,Memphis Grizzlies,114,Milwaukee Bucks,126,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+680,Fri Jan 21 2022,8:00p,Chicago Bulls,90,Milwaukee Bucks,94,0,18013.0,Fiserv Forum,Milwaukee Bucks,True
+686,Sat Jan 22 2022,7:00p,Sacramento Kings,127,Milwaukee Bucks,133,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+713,Wed Jan 26 2022,7:00p,Milwaukee Bucks,99,Cleveland Cavaliers,115,0,18904.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True
+735,Fri Jan 28 2022,10:00p,New York Knicks,108,Milwaukee Bucks,123,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+746,Sun Jan 30 2022,7:00p,Denver Nuggets,136,Milwaukee Bucks,100,0,17341.0,Fiserv Forum,Denver Nuggets,False
+759,Tue Feb 1 2022,7:30p,Washington Wizards,98,Milwaukee Bucks,112,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+793,Sat Feb 5 2022,10:00p,Milwaukee Bucks,137,Portland Trail Blazers,108,0,19393.0,Moda Center,Milwaukee Bucks,False
+802,Sun Feb 6 2022,9:00p,Milwaukee Bucks,137,Los Angeles Clippers,113,0,17395.0,Crypto.com Arena,Milwaukee Bucks,False
+815,Tue Feb 8 2022,10:00p,Milwaukee Bucks,131,Los Angeles Lakers,116,0,18997.0,Crypto.com Arena,Milwaukee Bucks,False
+830,Thu Feb 10 2022,10:00p,Milwaukee Bucks,107,Phoenix Suns,131,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True
+855,Mon Feb 14 2022,8:00p,Portland Trail Blazers,122,Milwaukee Bucks,107,0,17341.0,Fiserv Forum,Portland Trail Blazers,False
+863,Tue Feb 15 2022,8:00p,Indiana Pacers,119,Milwaukee Bucks,128,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+881,Thu Feb 17 2022,8:30p,Philadelphia 76ers,123,Milwaukee Bucks,120,0,17341.0,Fiserv Forum,Philadelphia 76ers,False
+904,Sat Feb 26 2022,8:30p,Brooklyn Nets,126,Milwaukee Bucks,123,0,17341.0,Fiserv Forum,Brooklyn Nets,False
+919,Mon Feb 28 2022,8:00p,Charlotte Hornets,106,Milwaukee Bucks,130,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+931,Wed Mar 2 2022,8:00p,Miami Heat,119,Milwaukee Bucks,120,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+945,Fri Mar 4 2022,7:30p,Milwaukee Bucks,118,Chicago Bulls,112,0,21259.0,United Center,Milwaukee Bucks,False
+958,Sun Mar 6 2022,3:30p,Phoenix Suns,122,Milwaukee Bucks,132,0,17495.0,Fiserv Forum,Milwaukee Bucks,True
+977,Tue Mar 8 2022,8:00p,Milwaukee Bucks,142,Oklahoma City Thunder,115,0,15743.0,Paycom Center,Milwaukee Bucks,False
+983,Wed Mar 9 2022,8:00p,Atlanta Hawks,115,Milwaukee Bucks,124,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+1006,Sat Mar 12 2022,8:30p,Milwaukee Bucks,109,Golden State Warriors,122,0,18064.0,Chase Center,Golden State Warriors,True
+1025,Mon Mar 14 2022,10:00p,Milwaukee Bucks,117,Utah Jazz,111,0,18306.0,Vivint Smart Home Arena,Milwaukee Bucks,False
+1041,Wed Mar 16 2022,10:00p,Milwaukee Bucks,135,Sacramento Kings,126,0,15864.0,Golden 1 Center,Milwaukee Bucks,False
+1056,Sat Mar 19 2022,5:00p,Milwaukee Bucks,119,Minnesota Timberwolves,138,0,17136.0,Target Center,Minnesota Timberwolves,True
+1080,Tue Mar 22 2022,8:00p,Chicago Bulls,98,Milwaukee Bucks,126,0,17983.0,Fiserv Forum,Milwaukee Bucks,True
+1095,Thu Mar 24 2022,8:00p,Washington Wizards,102,Milwaukee Bucks,114,0,18018.0,Fiserv Forum,Milwaukee Bucks,True
+1109,Sat Mar 26 2022,8:00p,Milwaukee Bucks,102,Memphis Grizzlies,127,0,17794.0,FedEx Forum,Memphis Grizzlies,True
+1129,Tue Mar 29 2022,7:00p,Milwaukee Bucks,118,Philadelphia 76ers,116,0,21467.0,Wells Fargo Center,Milwaukee Bucks,False
+1147,Thu Mar 31 2022,7:30p,Milwaukee Bucks,120,Brooklyn Nets,119,1,17917.0,Barclays Center,Milwaukee Bucks,False
+1155,Fri Apr 1 2022,8:00p,Los Angeles Clippers,153,Milwaukee Bucks,119,0,18023.0,Fiserv Forum,Los Angeles Clippers,False
+1166,Sun Apr 3 2022,1:00p,Dallas Mavericks,118,Milwaukee Bucks,112,0,17902.0,Fiserv Forum,Dallas Mavericks,False
+1182,Tue Apr 5 2022,8:00p,Milwaukee Bucks,127,Chicago Bulls,106,0,20799.0,United Center,Milwaukee Bucks,False
+1196,Thu Apr 7 2022,7:30p,Boston Celtics,121,Milwaukee Bucks,127,0,18046.0,Fiserv Forum,Milwaukee Bucks,True
+1202,Fri Apr 8 2022,7:00p,Milwaukee Bucks,131,Detroit Pistons,101,0,22088.0,Little Caesars Arena,Milwaukee Bucks,False
+1217,Sun Apr 10 2022,3:30p,Milwaukee Bucks,115,Cleveland Cavaliers,133,0,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True
+1242,Sun Apr 17 2022,6:30p,Chicago Bulls,86,Milwaukee Bucks,93,0,17717.0,Fiserv Forum,Milwaukee Bucks,True
+1252,Wed Apr 20 2022,9:30p,Chicago Bulls,114,Milwaukee Bucks,110,0,17688.0,Fiserv Forum,Chicago Bulls,False
+1257,Fri Apr 22 2022,8:30p,Milwaukee Bucks,111,Chicago Bulls,81,0,22667.0,United Center,Milwaukee Bucks,False
+1263,Sun Apr 24 2022,1:00p,Milwaukee Bucks,119,Chicago Bulls,95,0,22020.0,United Center,Milwaukee Bucks,False
+1273,Wed Apr 27 2022,7:30p,Chicago Bulls,100,Milwaukee Bucks,116,0,17506.0,Fiserv Forum,Milwaukee Bucks,True
+1279,Sun May 1 2022,1:00p,Milwaukee Bucks,101,Boston Celtics,89,0,19156.0,TD Garden,Milwaukee Bucks,False
+1283,Tue May 3 2022,7:00p,Milwaukee Bucks,86,Boston Celtics,109,0,19156.0,TD Garden,Boston Celtics,True
+1289,Sat May 7 2022,3:30p,Boston Celtics,101,Milwaukee Bucks,103,0,17736.0,Fiserv Forum,Milwaukee Bucks,True
+1293,Mon May 9 2022,7:30p,Boston Celtics,116,Milwaukee Bucks,108,0,17505.0,Fiserv Forum,Boston Celtics,False
+1297,Wed May 11 2022,7:00p,Milwaukee Bucks,110,Boston Celtics,107,0,19156.0,TD Garden,Milwaukee Bucks,False
+1301,Fri May 13 2022,7:30p,Boston Celtics,108,Milwaukee Bucks,95,0,17681.0,Fiserv Forum,Boston Celtics,False
+1303,Sun May 15 2022,3:30p,Milwaukee Bucks,81,Boston Celtics,109,0,19156.0,TD Garden,Boston Celtics,True

@@ -1,0 +1,83 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win
+11,Wed Oct 20 2021,10:00p,Sacramento Kings,124,Portland Trail Blazers,121,0,17467.0,Moda Center,Sacramento Kings,False
+32,Sat Oct 23 2021,10:00p,Phoenix Suns,105,Portland Trail Blazers,134,0,18558.0,Moda Center,Portland Trail Blazers,True
+48,Mon Oct 25 2021,10:30p,Portland Trail Blazers,86,Los Angeles Clippers,116,0,15672.0,Crypto.com Arena,Los Angeles Clippers,True
+62,Wed Oct 27 2021,10:00p,Memphis Grizzlies,96,Portland Trail Blazers,116,0,16241.0,Moda Center,Portland Trail Blazers,True
+75,Fri Oct 29 2021,10:00p,Los Angeles Clippers,92,Portland Trail Blazers,111,0,16510.0,Moda Center,Portland Trail Blazers,True
+89,Sun Oct 31 2021,7:00p,Portland Trail Blazers,113,Charlotte Hornets,125,0,14960.0,Spectrum Center,Charlotte Hornets,True
+95,Mon Nov 1 2021,7:00p,Portland Trail Blazers,103,Philadelphia 76ers,113,0,20115.0,Wells Fargo Center,Philadelphia 76ers,True
+107,Wed Nov 3 2021,7:00p,Portland Trail Blazers,104,Cleveland Cavaliers,107,0,16231.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True
+130,Fri Nov 5 2021,10:00p,Indiana Pacers,106,Portland Trail Blazers,110,0,16841.0,Moda Center,Portland Trail Blazers,True
+137,Sat Nov 6 2021,10:30p,Los Angeles Lakers,90,Portland Trail Blazers,105,0,19393.0,Moda Center,Portland Trail Blazers,True
+156,Tue Nov 9 2021,10:00p,Portland Trail Blazers,109,Los Angeles Clippers,117,0,14131.0,Crypto.com Arena,Los Angeles Clippers,True
+167,Wed Nov 10 2021,9:00p,Portland Trail Blazers,109,Phoenix Suns,119,0,15672.0,Phoenix Suns Arena,Phoenix Suns,True
+176,Fri Nov 12 2021,8:00p,Portland Trail Blazers,104,Houston Rockets,92,0,15468.0,Toyota Center,Portland Trail Blazers,False
+196,Sun Nov 14 2021,8:00p,Portland Trail Blazers,95,Denver Nuggets,124,0,14583.0,Ball Arena,Denver Nuggets,True
+207,Mon Nov 15 2021,10:00p,Toronto Raptors,113,Portland Trail Blazers,118,0,16142.0,Moda Center,Portland Trail Blazers,True
+222,Wed Nov 17 2021,10:00p,Chicago Bulls,107,Portland Trail Blazers,112,0,17492.0,Moda Center,Portland Trail Blazers,True
+245,Sat Nov 20 2021,10:00p,Philadelphia 76ers,111,Portland Trail Blazers,118,0,17027.0,Moda Center,Portland Trail Blazers,True
+264,Tue Nov 23 2021,10:00p,Denver Nuggets,100,Portland Trail Blazers,119,0,17052.0,Moda Center,Portland Trail Blazers,True
+278,Wed Nov 24 2021,10:00p,Portland Trail Blazers,121,Sacramento Kings,125,0,14997.0,Golden 1 Center,Sacramento Kings,True
+289,Fri Nov 26 2021,10:00p,Portland Trail Blazers,103,Golden State Warriors,118,0,18064.0,Chase Center,Golden State Warriors,True
+311,Mon Nov 29 2021,9:00p,Portland Trail Blazers,107,Utah Jazz,129,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True
+316,Tue Nov 30 2021,10:00p,Detroit Pistons,92,Portland Trail Blazers,110,0,16071.0,Moda Center,Portland Trail Blazers,True
+331,Thu Dec 2 2021,10:00p,San Antonio Spurs,114,Portland Trail Blazers,83,0,16143.0,Moda Center,San Antonio Spurs,False
+346,Sat Dec 4 2021,10:00p,Boston Celtics,145,Portland Trail Blazers,117,0,18193.0,Moda Center,Boston Celtics,False
+361,Mon Dec 6 2021,10:00p,Los Angeles Clippers,102,Portland Trail Blazers,90,0,15865.0,Moda Center,Los Angeles Clippers,False
+375,Wed Dec 8 2021,10:00p,Portland Trail Blazers,94,Golden State Warriors,104,0,18064.0,Chase Center,Golden State Warriors,True
+401,Sun Dec 12 2021,9:00p,Minnesota Timberwolves,116,Portland Trail Blazers,111,0,16591.0,Moda Center,Minnesota Timberwolves,False
+414,Tue Dec 14 2021,10:00p,Phoenix Suns,111,Portland Trail Blazers,107,1,16184.0,Moda Center,Phoenix Suns,False
+423,Wed Dec 15 2021,10:00p,Memphis Grizzlies,113,Portland Trail Blazers,103,0,15773.0,Moda Center,Memphis Grizzlies,False
+436,Fri Dec 17 2021,10:00p,Charlotte Hornets,116,Portland Trail Blazers,125,0,18399.0,Moda Center,Portland Trail Blazers,True
+446,Sun Dec 19 2021,6:00p,Portland Trail Blazers,105,Memphis Grizzlies,100,0,15977.0,FedEx Forum,Portland Trail Blazers,False
+459,Tue Dec 21 2021,8:00p,Portland Trail Blazers,97,New Orleans Pelicans,111,0,15272.0,Smoothie King Center,New Orleans Pelicans,True
+496,Mon Dec 27 2021,10:00p,Dallas Mavericks,132,Portland Trail Blazers,117,0,18430.0,Moda Center,Dallas Mavericks,False
+512,Wed Dec 29 2021,10:00p,Utah Jazz,120,Portland Trail Blazers,105,0,17828.0,Moda Center,Utah Jazz,False
+526,Fri Dec 31 2021,10:30p,Portland Trail Blazers,106,Los Angeles Lakers,139,0,18997.0,Crypto.com Arena,Los Angeles Lakers,True
+548,Mon Jan 3 2022,10:00p,Atlanta Hawks,131,Portland Trail Blazers,136,0,15091.0,Moda Center,Portland Trail Blazers,True
+564,Wed Jan 5 2022,10:00p,Miami Heat,115,Portland Trail Blazers,109,0,15773.0,Moda Center,Miami Heat,False
+578,Fri Jan 7 2022,10:00p,Cleveland Cavaliers,114,Portland Trail Blazers,101,0,16708.0,Moda Center,Cleveland Cavaliers,False
+593,Sun Jan 9 2022,9:00p,Sacramento Kings,88,Portland Trail Blazers,103,0,16408.0,Moda Center,Portland Trail Blazers,True
+600,Mon Jan 10 2022,10:00p,Brooklyn Nets,108,Portland Trail Blazers,114,0,16379.0,Moda Center,Portland Trail Blazers,True
+621,Thu Jan 13 2022,10:00p,Portland Trail Blazers,108,Denver Nuggets,140,0,14972.0,Ball Arena,Denver Nuggets,True
+632,Sat Jan 15 2022,7:00p,Portland Trail Blazers,115,Washington Wizards,110,0,15124.0,Capital One Arena,Portland Trail Blazers,False
+652,Mon Jan 17 2022,7:00p,Portland Trail Blazers,98,Orlando Magic,88,0,13648.0,Amway Center,Portland Trail Blazers,False
+663,Wed Jan 19 2022,7:30p,Portland Trail Blazers,92,Miami Heat,104,0,19600.0,FTX Arena,Miami Heat,True
+679,Fri Jan 21 2022,7:30p,Portland Trail Blazers,109,Boston Celtics,105,0,19156.0,TD Garden,Portland Trail Blazers,False
+693,Sun Jan 23 2022,6:00p,Portland Trail Blazers,114,Toronto Raptors,105,0,,Scotiabank Arena,Portland Trail Blazers,False
+712,Tue Jan 25 2022,10:00p,Minnesota Timberwolves,109,Portland Trail Blazers,107,0,16422.0,Moda Center,Minnesota Timberwolves,False
+721,Wed Jan 26 2022,10:00p,Dallas Mavericks,132,Portland Trail Blazers,112,0,16334.0,Moda Center,Dallas Mavericks,False
+728,Fri Jan 28 2022,8:00p,Portland Trail Blazers,125,Houston Rockets,110,0,16100.0,Toyota Center,Portland Trail Blazers,False
+744,Sun Jan 30 2022,3:30p,Portland Trail Blazers,116,Chicago Bulls,130,0,19521.0,United Center,Chicago Bulls,True
+757,Mon Jan 31 2022,8:00p,Portland Trail Blazers,81,Oklahoma City Thunder,98,0,13812.0,Paycom Center,Oklahoma City Thunder,True
+773,Wed Feb 2 2022,10:30p,Portland Trail Blazers,94,Los Angeles Lakers,99,0,17259.0,Crypto.com Arena,Los Angeles Lakers,True
+788,Fri Feb 4 2022,10:00p,Oklahoma City Thunder,96,Portland Trail Blazers,93,0,15329.0,Moda Center,Oklahoma City Thunder,False
+793,Sat Feb 5 2022,10:00p,Milwaukee Bucks,137,Portland Trail Blazers,108,0,19393.0,Moda Center,Milwaukee Bucks,False
+816,Tue Feb 8 2022,10:00p,Orlando Magic,113,Portland Trail Blazers,95,0,16024.0,Moda Center,Orlando Magic,False
+821,Wed Feb 9 2022,10:00p,Los Angeles Lakers,105,Portland Trail Blazers,107,0,19393.0,Moda Center,Portland Trail Blazers,True
+838,Sat Feb 12 2022,5:00p,New York Knicks,103,Portland Trail Blazers,112,0,18521.0,Moda Center,Portland Trail Blazers,True
+855,Mon Feb 14 2022,8:00p,Portland Trail Blazers,122,Milwaukee Bucks,107,0,17341.0,Fiserv Forum,Portland Trail Blazers,False
+872,Wed Feb 16 2022,8:00p,Portland Trail Blazers,123,Memphis Grizzlies,119,0,16834.0,FedEx Forum,Portland Trail Blazers,False
+888,Thu Feb 24 2022,10:00p,Golden State Warriors,132,Portland Trail Blazers,95,0,20098.0,Moda Center,Golden State Warriors,False
+912,Sun Feb 27 2022,9:00p,Denver Nuggets,124,Portland Trail Blazers,92,0,17771.0,Moda Center,Denver Nuggets,False
+934,Wed Mar 2 2022,10:00p,Portland Trail Blazers,90,Phoenix Suns,120,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True
+955,Sat Mar 5 2022,8:00p,Portland Trail Blazers,121,Minnesota Timberwolves,135,0,17136.0,Target Center,Minnesota Timberwolves,True
+968,Mon Mar 7 2022,8:00p,Portland Trail Blazers,81,Minnesota Timberwolves,124,0,16035.0,Target Center,Minnesota Timberwolves,True
+989,Wed Mar 9 2022,10:00p,Portland Trail Blazers,85,Utah Jazz,123,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True
+1009,Sat Mar 12 2022,10:00p,Washington Wizards,118,Portland Trail Blazers,127,0,17524.0,Moda Center,Portland Trail Blazers,True
+1019,Mon Mar 14 2022,7:30p,Portland Trail Blazers,113,Atlanta Hawks,122,0,16432.0,State Farm Arena,Atlanta Hawks,True
+1035,Wed Mar 16 2022,7:30p,Portland Trail Blazers,98,New York Knicks,128,0,18213.0,Madison Square Garden (IV),New York Knicks,True
+1046,Fri Mar 18 2022,7:30p,Portland Trail Blazers,123,Brooklyn Nets,128,0,17732.0,Barclays Center,Brooklyn Nets,True
+1061,Sun Mar 20 2022,3:30p,Portland Trail Blazers,98,Indiana Pacers,129,0,16067.0,Gainbridge Fieldhouse,Indiana Pacers,True
+1071,Mon Mar 21 2022,7:00p,Portland Trail Blazers,119,Detroit Pistons,115,0,14923.0,Little Caesars Arena,Portland Trail Blazers,False
+1092,Wed Mar 23 2022,10:00p,San Antonio Spurs,133,Portland Trail Blazers,96,0,16610.0,Moda Center,San Antonio Spurs,False
+1103,Fri Mar 25 2022,10:00p,Houston Rockets,125,Portland Trail Blazers,106,0,16947.0,Moda Center,Houston Rockets,False
+1112,Sat Mar 26 2022,10:00p,Houston Rockets,115,Portland Trail Blazers,98,0,17821.0,Moda Center,Houston Rockets,False
+1128,Mon Mar 28 2022,10:00p,Oklahoma City Thunder,134,Portland Trail Blazers,131,1,18188.0,Moda Center,Oklahoma City Thunder,False
+1144,Wed Mar 30 2022,10:00p,New Orleans Pelicans,117,Portland Trail Blazers,107,0,18551.0,Moda Center,New Orleans Pelicans,False
+1157,Fri Apr 1 2022,8:30p,Portland Trail Blazers,111,San Antonio Spurs,130,0,17512.0,AT&T Center,San Antonio Spurs,True
+1173,Sun Apr 3 2022,7:00p,Portland Trail Blazers,92,San Antonio Spurs,113,0,15816.0,AT&T Center,San Antonio Spurs,True
+1184,Tue Apr 5 2022,8:00p,Portland Trail Blazers,94,Oklahoma City Thunder,98,0,14674.0,Paycom Center,Oklahoma City Thunder,True
+1199,Thu Apr 7 2022,8:00p,Portland Trail Blazers,94,New Orleans Pelicans,127,0,12432.0,Smoothie King Center,New Orleans Pelicans,True
+1208,Fri Apr 8 2022,8:30p,Portland Trail Blazers,78,Dallas Mavericks,128,0,20174.0,American Airlines Center,Dallas Mavericks,True
+1229,Sun Apr 10 2022,9:30p,Utah Jazz,111,Portland Trail Blazers,80,0,18123.0,Moda Center,Utah Jazz,False

@@ -1,0 +1,83 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win
+9,Wed Oct 20 2021,8:30p,Orlando Magic,97,San Antonio Spurs,123,0,16697.0,AT&T Center,San Antonio Spurs,True
+16,Fri Oct 22 2021,7:00p,New York Knicks,121,Orlando Magic,96,0,18846.0,Amway Center,New York Knicks,False
+36,Sun Oct 24 2021,7:00p,Orlando Magic,110,New York Knicks,104,0,16273.0,Madison Square Garden (IV),Orlando Magic,False
+43,Mon Oct 25 2021,7:30p,Orlando Magic,90,Miami Heat,107,0,19600.0,FTX Arena,Miami Heat,True
+54,Wed Oct 27 2021,7:00p,Charlotte Hornets,120,Orlando Magic,111,0,14082.0,Amway Center,Charlotte Hornets,False
+70,Fri Oct 29 2021,7:00p,Orlando Magic,109,Toronto Raptors,110,0,19800.0,Scotiabank Arena,Toronto Raptors,True
+78,Sat Oct 30 2021,7:00p,Orlando Magic,103,Detroit Pistons,110,0,11423.0,Little Caesars Arena,Detroit Pistons,True
+100,Mon Nov 1 2021,8:00p,Orlando Magic,115,Minnesota Timberwolves,97,0,14744.0,Target Center,Orlando Magic,False
+109,Wed Nov 3 2021,7:00p,Boston Celtics,92,Orlando Magic,79,0,12735.0,Amway Center,Boston Celtics,False
+124,Fri Nov 5 2021,7:00p,San Antonio Spurs,102,Orlando Magic,89,0,14101.0,Amway Center,San Antonio Spurs,False
+140,Sun Nov 7 2021,6:00p,Utah Jazz,100,Orlando Magic,107,0,13386.0,Amway Center,Orlando Magic,True
+158,Wed Nov 10 2021,7:00p,Brooklyn Nets,123,Orlando Magic,90,0,13882.0,Amway Center,Brooklyn Nets,False
+187,Sat Nov 13 2021,7:00p,Washington Wizards,104,Orlando Magic,92,0,17272.0,Amway Center,Washington Wizards,False
+201,Mon Nov 15 2021,7:30p,Orlando Magic,111,Atlanta Hawks,129,0,13061.0,State Farm Arena,Atlanta Hawks,True
+218,Wed Nov 17 2021,7:30p,Orlando Magic,104,New York Knicks,98,0,16680.0,Madison Square Garden (IV),Orlando Magic,False
+232,Fri Nov 19 2021,7:30p,Orlando Magic,113,Brooklyn Nets,115,0,16966.0,Barclays Center,Brooklyn Nets,True
+243,Sat Nov 20 2021,8:00p,Orlando Magic,108,Milwaukee Bucks,117,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+257,Mon Nov 22 2021,8:00p,Orlando Magic,92,Milwaukee Bucks,123,0,17341.0,Fiserv Forum,Milwaukee Bucks,True
+268,Wed Nov 24 2021,7:00p,Charlotte Hornets,106,Orlando Magic,99,0,16114.0,Amway Center,Charlotte Hornets,False
+282,Fri Nov 26 2021,7:00p,Chicago Bulls,123,Orlando Magic,88,0,18236.0,Amway Center,Chicago Bulls,False
+295,Sat Nov 27 2021,8:00p,Orlando Magic,92,Cleveland Cavaliers,105,0,18248.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True
+304,Mon Nov 29 2021,7:00p,Orlando Magic,96,Philadelphia 76ers,101,0,20193.0,Wells Fargo Center,Philadelphia 76ers,True
+319,Wed Dec 1 2021,7:00p,Denver Nuggets,103,Orlando Magic,108,0,14191.0,Amway Center,Orlando Magic,True
+336,Fri Dec 3 2021,8:00p,Orlando Magic,116,Houston Rockets,118,0,13697.0,Toyota Center,Houston Rockets,True
+360,Mon Dec 6 2021,10:00p,Orlando Magic,95,Golden State Warriors,126,0,18064.0,Chase Center,Golden State Warriors,True
+376,Wed Dec 8 2021,10:00p,Orlando Magic,130,Sacramento Kings,142,0,14364.0,Golden 1 Center,Sacramento Kings,True
+390,Sat Dec 11 2021,3:30p,Orlando Magic,104,Los Angeles Clippers,106,0,17156.0,Crypto.com Arena,Los Angeles Clippers,True
+402,Sun Dec 12 2021,9:30p,Orlando Magic,94,Los Angeles Lakers,106,0,18997.0,Crypto.com Arena,Los Angeles Lakers,True
+416,Wed Dec 15 2021,7:00p,Atlanta Hawks,111,Orlando Magic,99,0,13576.0,Amway Center,Atlanta Hawks,False
+430,Fri Dec 17 2021,7:00p,Miami Heat,115,Orlando Magic,105,0,14103.0,Amway Center,Miami Heat,False
+440,Sat Dec 18 2021,7:30p,Orlando Magic,100,Brooklyn Nets,93,0,16292.0,Barclays Center,Orlando Magic,False
+462,Wed Dec 22 2021,7:30p,Orlando Magic,104,Atlanta Hawks,98,0,15299.0,State Farm Arena,Orlando Magic,False
+468,Thu Dec 23 2021,7:00p,New Orleans Pelicans,110,Orlando Magic,104,0,13954.0,Amway Center,New Orleans Pelicans,False
+483,Sun Dec 26 2021,3:30p,Orlando Magic,83,Miami Heat,93,0,19600.0,FTX Arena,Miami Heat,True
+498,Tue Dec 28 2021,7:00p,Milwaukee Bucks,127,Orlando Magic,110,0,16696.0,Amway Center,Milwaukee Bucks,False
+515,Thu Dec 30 2021,7:00p,Milwaukee Bucks,136,Orlando Magic,118,0,15855.0,Amway Center,Milwaukee Bucks,False
+534,Sun Jan 2 2022,6:00p,Orlando Magic,111,Boston Celtics,116,1,19156.0,TD Garden,Boston Celtics,True
+543,Mon Jan 3 2022,8:00p,Orlando Magic,98,Chicago Bulls,102,0,20502.0,United Center,Chicago Bulls,True
+556,Wed Jan 5 2022,7:00p,Philadelphia 76ers,116,Orlando Magic,106,0,13116.0,Amway Center,Philadelphia 76ers,False
+581,Sat Jan 8 2022,7:00p,Orlando Magic,92,Detroit Pistons,97,0,18644.0,Little Caesars Arena,Detroit Pistons,True
+587,Sun Jan 9 2022,6:00p,Washington Wizards,102,Orlando Magic,100,0,13223.0,Amway Center,Washington Wizards,False
+610,Wed Jan 12 2022,7:00p,Orlando Magic,106,Washington Wizards,112,0,13138.0,Capital One Arena,Washington Wizards,True
+622,Fri Jan 14 2022,7:00p,Orlando Magic,116,Charlotte Hornets,109,0,16011.0,Spectrum Center,Orlando Magic,False
+640,Sat Jan 15 2022,9:30p,Orlando Magic,92,Dallas Mavericks,108,0,19816.0,American Airlines Center,Dallas Mavericks,True
+652,Mon Jan 17 2022,7:00p,Portland Trail Blazers,98,Orlando Magic,88,0,13648.0,Amway Center,Portland Trail Blazers,False
+659,Wed Jan 19 2022,7:00p,Orlando Magic,110,Philadelphia 76ers,123,0,20081.0,Wells Fargo Center,Philadelphia 76ers,True
+676,Fri Jan 21 2022,7:00p,Los Angeles Lakers,116,Orlando Magic,105,0,18846.0,Amway Center,Los Angeles Lakers,False
+692,Sun Jan 23 2022,6:00p,Chicago Bulls,95,Orlando Magic,114,0,18846.0,Amway Center,Orlando Magic,True
+715,Wed Jan 26 2022,7:00p,Los Angeles Clippers,111,Orlando Magic,102,0,12448.0,Amway Center,Los Angeles Clippers,False
+725,Fri Jan 28 2022,7:00p,Detroit Pistons,103,Orlando Magic,119,0,13156.0,Amway Center,Orlando Magic,True
+747,Sun Jan 30 2022,7:00p,Dallas Mavericks,108,Orlando Magic,110,0,13376.0,Amway Center,Orlando Magic,True
+761,Tue Feb 1 2022,8:00p,Orlando Magic,115,Chicago Bulls,126,0,20217.0,United Center,Chicago Bulls,True
+765,Wed Feb 2 2022,7:00p,Orlando Magic,119,Indiana Pacers,118,0,14528.0,Gainbridge Fieldhouse,Orlando Magic,False
+789,Sat Feb 5 2022,5:00p,Memphis Grizzlies,135,Orlando Magic,115,0,18846.0,Amway Center,Memphis Grizzlies,False
+800,Sun Feb 6 2022,6:00p,Boston Celtics,116,Orlando Magic,83,0,14402.0,Amway Center,Boston Celtics,False
+816,Tue Feb 8 2022,10:00p,Orlando Magic,113,Portland Trail Blazers,95,0,16024.0,Moda Center,Orlando Magic,False
+837,Fri Feb 11 2022,9:00p,Orlando Magic,99,Utah Jazz,114,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True
+848,Sat Feb 12 2022,9:00p,Orlando Magic,105,Phoenix Suns,132,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True
+857,Mon Feb 14 2022,9:00p,Orlando Magic,111,Denver Nuggets,121,0,15025.0,Ball Arena,Denver Nuggets,True
+867,Wed Feb 16 2022,7:00p,Atlanta Hawks,130,Orlando Magic,109,0,14398.0,Amway Center,Atlanta Hawks,False
+892,Fri Feb 25 2022,7:00p,Houston Rockets,111,Orlando Magic,119,0,16631.0,Amway Center,Orlando Magic,True
+915,Mon Feb 28 2022,7:00p,Indiana Pacers,103,Orlando Magic,119,0,13014.0,Amway Center,Orlando Magic,True
+928,Wed Mar 2 2022,7:00p,Indiana Pacers,122,Orlando Magic,114,1,11221.0,Amway Center,Indiana Pacers,False
+946,Fri Mar 4 2022,7:30p,Orlando Magic,103,Toronto Raptors,97,0,19081.0,Scotiabank Arena,Orlando Magic,False
+953,Sat Mar 5 2022,8:00p,Orlando Magic,96,Memphis Grizzlies,124,0,17794.0,FedEx Forum,Memphis Grizzlies,True
+975,Tue Mar 8 2022,7:00p,Phoenix Suns,102,Orlando Magic,99,0,14024.0,Amway Center,Phoenix Suns,False
+985,Wed Mar 9 2022,8:00p,Orlando Magic,108,New Orleans Pelicans,102,0,15633.0,Smoothie King Center,Orlando Magic,False
+993,Fri Mar 11 2022,7:00p,Minnesota Timberwolves,110,Orlando Magic,118,0,14557.0,Amway Center,Orlando Magic,True
+1013,Sun Mar 13 2022,6:00p,Philadelphia 76ers,116,Orlando Magic,114,1,14444.0,Amway Center,Philadelphia 76ers,False
+1028,Tue Mar 15 2022,7:00p,Brooklyn Nets,150,Orlando Magic,108,0,15282.0,Amway Center,Brooklyn Nets,False
+1043,Thu Mar 17 2022,7:00p,Detroit Pistons,134,Orlando Magic,120,0,14369.0,Amway Center,Detroit Pistons,False
+1063,Sun Mar 20 2022,6:00p,Oklahoma City Thunder,85,Orlando Magic,90,0,15012.0,Amway Center,Orlando Magic,True
+1078,Tue Mar 22 2022,7:00p,Golden State Warriors,90,Orlando Magic,94,0,17164.0,Amway Center,Orlando Magic,True
+1089,Wed Mar 23 2022,8:00p,Orlando Magic,102,Oklahoma City Thunder,118,0,14393.0,Paycom Center,Oklahoma City Thunder,True
+1106,Sat Mar 26 2022,7:00p,Sacramento Kings,114,Orlando Magic,110,1,16366.0,Amway Center,Sacramento Kings,False
+1121,Mon Mar 28 2022,7:00p,Orlando Magic,101,Cleveland Cavaliers,107,0,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True
+1136,Wed Mar 30 2022,7:00p,Orlando Magic,110,Washington Wizards,127,0,16455.0,Capital One Arena,Washington Wizards,True
+1150,Fri Apr 1 2022,7:00p,Toronto Raptors,102,Orlando Magic,89,0,17566.0,Amway Center,Toronto Raptors,False
+1170,Sun Apr 3 2022,6:00p,New York Knicks,118,Orlando Magic,88,0,15747.0,Amway Center,New York Knicks,False
+1178,Tue Apr 5 2022,7:00p,Cleveland Cavaliers,115,Orlando Magic,120,0,16897.0,Amway Center,Orlando Magic,True
+1195,Thu Apr 7 2022,7:00p,Orlando Magic,101,Charlotte Hornets,128,0,16427.0,Spectrum Center,Charlotte Hornets,True
+1221,Sun Apr 10 2022,7:00p,Miami Heat,111,Orlando Magic,125,0,19253.0,Amway Center,Orlando Magic,True

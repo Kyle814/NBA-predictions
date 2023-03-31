@@ -1,0 +1,88 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win
+3,Wed Oct 20 2021,7:00p,Chicago Bulls,94,Detroit Pistons,88,0,20088.0,Little Caesars Arena,Chicago Bulls,False
+22,Fri Oct 22 2021,8:00p,New Orleans Pelicans,112,Chicago Bulls,128,0,20995.0,United Center,Chicago Bulls,True
+29,Sat Oct 23 2021,8:00p,Detroit Pistons,82,Chicago Bulls,97,0,18888.0,United Center,Chicago Bulls,True
+42,Mon Oct 25 2021,7:30p,Chicago Bulls,111,Toronto Raptors,108,0,19800.0,Scotiabank Arena,Chicago Bulls,False
+67,Thu Oct 28 2021,8:00p,New York Knicks,104,Chicago Bulls,103,0,20972.0,United Center,New York Knicks,False
+82,Sat Oct 30 2021,8:00p,Utah Jazz,99,Chicago Bulls,107,0,20668.0,United Center,Chicago Bulls,True
+97,Mon Nov 1 2021,7:30p,Chicago Bulls,128,Boston Celtics,114,0,19156.0,TD Garden,Chicago Bulls,False
+110,Wed Nov 3 2021,7:00p,Chicago Bulls,98,Philadelphia 76ers,103,0,20438.0,Wells Fargo Center,Philadelphia 76ers,True
+134,Sat Nov 6 2021,8:00p,Philadelphia 76ers,114,Chicago Bulls,105,0,20936.0,United Center,Philadelphia 76ers,False
+147,Mon Nov 8 2021,8:00p,Brooklyn Nets,95,Chicago Bulls,118,0,19459.0,United Center,Chicago Bulls,True
+162,Wed Nov 10 2021,8:00p,Dallas Mavericks,107,Chicago Bulls,117,0,20910.0,United Center,Chicago Bulls,True
+182,Fri Nov 12 2021,10:00p,Chicago Bulls,93,Golden State Warriors,119,0,18064.0,Chase Center,Golden State Warriors,True
+197,Sun Nov 14 2021,9:30p,Chicago Bulls,100,Los Angeles Clippers,90,0,17899.0,Crypto.com Arena,Chicago Bulls,False
+208,Mon Nov 15 2021,10:30p,Chicago Bulls,121,Los Angeles Lakers,103,0,18997.0,Crypto.com Arena,Chicago Bulls,False
+222,Wed Nov 17 2021,10:00p,Chicago Bulls,107,Portland Trail Blazers,112,0,17492.0,Moda Center,Portland Trail Blazers,True
+235,Fri Nov 19 2021,9:00p,Chicago Bulls,114,Denver Nuggets,108,0,19520.0,Ball Arena,Chicago Bulls,False
+249,Sun Nov 21 2021,8:00p,New York Knicks,103,Chicago Bulls,109,0,21813.0,United Center,Chicago Bulls,True
+256,Mon Nov 22 2021,8:00p,Indiana Pacers,109,Chicago Bulls,77,0,21586.0,United Center,Indiana Pacers,False
+270,Wed Nov 24 2021,8:00p,Chicago Bulls,113,Houston Rockets,118,0,16074.0,Toyota Center,Houston Rockets,True
+282,Fri Nov 26 2021,7:00p,Chicago Bulls,123,Orlando Magic,88,0,18236.0,Amway Center,Chicago Bulls,False
+294,Sat Nov 27 2021,8:00p,Miami Heat,107,Chicago Bulls,104,0,21110.0,United Center,Miami Heat,False
+306,Mon Nov 29 2021,8:00p,Charlotte Hornets,119,Chicago Bulls,133,0,21366.0,United Center,Chicago Bulls,True
+327,Thu Dec 2 2021,7:30p,Chicago Bulls,119,New York Knicks,115,0,19812.0,Madison Square Garden (IV),Chicago Bulls,False
+342,Sat Dec 4 2021,8:00p,Chicago Bulls,111,Brooklyn Nets,107,0,18116.0,Barclays Center,Chicago Bulls,False
+356,Mon Dec 6 2021,8:00p,Denver Nuggets,97,Chicago Bulls,109,0,21236.0,United Center,Chicago Bulls,True
+366,Wed Dec 8 2021,7:00p,Chicago Bulls,92,Cleveland Cavaliers,115,0,17707.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True
+394,Sat Dec 11 2021,8:00p,Chicago Bulls,92,Miami Heat,118,0,19731.0,FTX Arena,Miami Heat,True
+448,Sun Dec 19 2021,8:00p,Los Angeles Lakers,110,Chicago Bulls,115,0,21560.0,United Center,Chicago Bulls,True
+452,Mon Dec 20 2021,8:00p,Houston Rockets,118,Chicago Bulls,133,0,21150.0,United Center,Chicago Bulls,True
+489,Sun Dec 26 2021,8:00p,Indiana Pacers,105,Chicago Bulls,113,0,20475.0,United Center,Chicago Bulls,True
+492,Mon Dec 27 2021,7:30p,Chicago Bulls,130,Atlanta Hawks,118,0,17049.0,State Farm Arena,Chicago Bulls,False
+509,Wed Dec 29 2021,8:00p,Atlanta Hawks,117,Chicago Bulls,131,0,21372.0,United Center,Chicago Bulls,True
+518,Fri Dec 31 2021,3:00p,Chicago Bulls,108,Indiana Pacers,106,0,17515.0,Gainbridge Fieldhouse,Chicago Bulls,False
+529,Sat Jan 1 2022,7:00p,Chicago Bulls,120,Washington Wizards,119,0,19043.0,Capital One Arena,Chicago Bulls,False
+543,Mon Jan 3 2022,8:00p,Orlando Magic,98,Chicago Bulls,102,0,20502.0,United Center,Chicago Bulls,True
+573,Fri Jan 7 2022,8:00p,Washington Wizards,122,Chicago Bulls,130,0,21700.0,United Center,Chicago Bulls,True
+591,Sun Jan 9 2022,7:30p,Chicago Bulls,99,Dallas Mavericks,113,0,20041.0,American Airlines Center,Dallas Mavericks,True
+604,Tue Jan 11 2022,8:00p,Detroit Pistons,87,Chicago Bulls,133,0,19886.0,United Center,Chicago Bulls,True
+615,Wed Jan 12 2022,10:00p,Brooklyn Nets,138,Chicago Bulls,112,0,21698.0,United Center,Brooklyn Nets,False
+626,Fri Jan 14 2022,7:30p,Golden State Warriors,138,Chicago Bulls,96,0,21174.0,United Center,Golden State Warriors,False
+637,Sat Jan 15 2022,8:30p,Chicago Bulls,112,Boston Celtics,114,0,19156.0,TD Garden,Boston Celtics,True
+650,Mon Jan 17 2022,3:30p,Chicago Bulls,106,Memphis Grizzlies,119,0,17794.0,FedEx Forum,Memphis Grizzlies,True
+664,Wed Jan 19 2022,8:00p,Cleveland Cavaliers,104,Chicago Bulls,117,0,20824.0,United Center,Chicago Bulls,True
+680,Fri Jan 21 2022,8:00p,Chicago Bulls,90,Milwaukee Bucks,94,0,18013.0,Fiserv Forum,Milwaukee Bucks,True
+692,Sun Jan 23 2022,6:00p,Chicago Bulls,95,Orlando Magic,114,0,18846.0,Amway Center,Orlando Magic,True
+702,Mon Jan 24 2022,8:00p,Chicago Bulls,111,Oklahoma City Thunder,110,0,14378.0,Paycom Center,Chicago Bulls,False
+719,Wed Jan 26 2022,8:00p,Toronto Raptors,105,Chicago Bulls,111,0,20269.0,United Center,Chicago Bulls,True
+733,Fri Jan 28 2022,8:30p,Chicago Bulls,122,San Antonio Spurs,131,0,18354.0,AT&T Center,San Antonio Spurs,True
+744,Sun Jan 30 2022,3:30p,Portland Trail Blazers,116,Chicago Bulls,130,0,19521.0,United Center,Chicago Bulls,True
+761,Tue Feb 1 2022,8:00p,Orlando Magic,115,Chicago Bulls,126,0,20217.0,United Center,Chicago Bulls,True
+777,Thu Feb 3 2022,7:30p,Chicago Bulls,120,Toronto Raptors,127,1,,Scotiabank Arena,Toronto Raptors,True
+782,Fri Feb 4 2022,7:00p,Chicago Bulls,122,Indiana Pacers,115,0,16355.0,Gainbridge Fieldhouse,Chicago Bulls,False
+795,Sun Feb 6 2022,3:30p,Philadelphia 76ers,119,Chicago Bulls,108,0,20233.0,United Center,Philadelphia 76ers,False
+805,Mon Feb 7 2022,8:00p,Phoenix Suns,127,Chicago Bulls,124,0,20615.0,United Center,Phoenix Suns,False
+819,Wed Feb 9 2022,7:30p,Chicago Bulls,121,Charlotte Hornets,109,0,19099.0,Spectrum Center,Chicago Bulls,False
+836,Fri Feb 11 2022,8:00p,Minnesota Timberwolves,122,Chicago Bulls,134,0,20092.0,United Center,Chicago Bulls,True
+844,Sat Feb 12 2022,8:00p,Oklahoma City Thunder,101,Chicago Bulls,106,0,20072.0,United Center,Chicago Bulls,True
+854,Mon Feb 14 2022,8:00p,San Antonio Spurs,109,Chicago Bulls,120,0,21153.0,United Center,Chicago Bulls,True
+871,Wed Feb 16 2022,8:00p,Sacramento Kings,118,Chicago Bulls,125,0,19166.0,United Center,Chicago Bulls,True
+885,Thu Feb 24 2022,8:00p,Atlanta Hawks,108,Chicago Bulls,112,0,21236.0,United Center,Chicago Bulls,True
+901,Sat Feb 26 2022,8:00p,Memphis Grizzlies,116,Chicago Bulls,110,0,21959.0,United Center,Memphis Grizzlies,False
+917,Mon Feb 28 2022,7:30p,Chicago Bulls,99,Miami Heat,112,0,19683.0,FTX Arena,Miami Heat,True
+935,Thu Mar 3 2022,7:00p,Chicago Bulls,124,Atlanta Hawks,130,0,17522.0,State Farm Arena,Atlanta Hawks,True
+945,Fri Mar 4 2022,7:30p,Milwaukee Bucks,118,Chicago Bulls,112,0,21259.0,United Center,Milwaukee Bucks,False
+966,Mon Mar 7 2022,7:00p,Chicago Bulls,106,Philadelphia 76ers,121,0,20381.0,Wells Fargo Center,Philadelphia 76ers,True
+980,Wed Mar 9 2022,7:00p,Chicago Bulls,114,Detroit Pistons,108,0,18022.0,Little Caesars Arena,Chicago Bulls,False
+1003,Sat Mar 12 2022,8:00p,Cleveland Cavaliers,91,Chicago Bulls,101,0,21727.0,United Center,Chicago Bulls,True
+1024,Mon Mar 14 2022,10:00p,Chicago Bulls,103,Sacramento Kings,112,0,15943.0,Golden 1 Center,Sacramento Kings,True
+1039,Wed Mar 16 2022,9:00p,Chicago Bulls,110,Utah Jazz,125,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True
+1054,Fri Mar 18 2022,10:00p,Chicago Bulls,102,Phoenix Suns,129,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True
+1074,Mon Mar 21 2022,8:00p,Toronto Raptors,99,Chicago Bulls,113,0,21778.0,United Center,Chicago Bulls,True
+1080,Tue Mar 22 2022,8:00p,Chicago Bulls,98,Milwaukee Bucks,126,0,17983.0,Fiserv Forum,Milwaukee Bucks,True
+1096,Thu Mar 24 2022,8:00p,Chicago Bulls,109,New Orleans Pelicans,126,0,13973.0,Smoothie King Center,New Orleans Pelicans,True
+1108,Sat Mar 26 2022,8:00p,Chicago Bulls,98,Cleveland Cavaliers,94,0,19432.0,Rocket Mortgage Fieldhouse,Chicago Bulls,False
+1124,Mon Mar 28 2022,7:30p,Chicago Bulls,104,New York Knicks,109,0,19812.0,Madison Square Garden (IV),New York Knicks,True
+1130,Tue Mar 29 2022,7:00p,Chicago Bulls,107,Washington Wizards,94,0,15922.0,Capital One Arena,Chicago Bulls,False
+1148,Thu Mar 31 2022,8:00p,Los Angeles Clippers,130,Chicago Bulls,135,1,21519.0,United Center,Chicago Bulls,True
+1163,Sat Apr 2 2022,8:00p,Miami Heat,127,Chicago Bulls,109,0,21697.0,United Center,Miami Heat,False
+1182,Tue Apr 5 2022,8:00p,Milwaukee Bucks,127,Chicago Bulls,106,0,20799.0,United Center,Milwaukee Bucks,False
+1192,Wed Apr 6 2022,8:00p,Boston Celtics,117,Chicago Bulls,94,0,21095.0,United Center,Boston Celtics,False
+1206,Fri Apr 8 2022,8:00p,Charlotte Hornets,133,Chicago Bulls,117,0,21461.0,United Center,Charlotte Hornets,False
+1223,Sun Apr 10 2022,8:30p,Chicago Bulls,124,Minnesota Timberwolves,120,0,17136.0,Target Center,Chicago Bulls,False
+1242,Sun Apr 17 2022,6:30p,Chicago Bulls,86,Milwaukee Bucks,93,0,17717.0,Fiserv Forum,Milwaukee Bucks,True
+1252,Wed Apr 20 2022,9:30p,Chicago Bulls,114,Milwaukee Bucks,110,0,17688.0,Fiserv Forum,Chicago Bulls,False
+1257,Fri Apr 22 2022,8:30p,Milwaukee Bucks,111,Chicago Bulls,81,0,22667.0,United Center,Milwaukee Bucks,False
+1263,Sun Apr 24 2022,1:00p,Milwaukee Bucks,119,Chicago Bulls,95,0,22020.0,United Center,Milwaukee Bucks,False
+1273,Wed Apr 27 2022,7:30p,Chicago Bulls,100,Milwaukee Bucks,116,0,17506.0,Fiserv Forum,Milwaukee Bucks,True

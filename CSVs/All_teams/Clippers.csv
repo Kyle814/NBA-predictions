@@ -1,0 +1,85 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win
+15,Thu Oct 21 2021,10:00p,Los Angeles Clippers,113,Golden State Warriors,115,0,18064.0,Chase Center,Golden State Warriors,True
+33,Sat Oct 23 2021,10:30p,Memphis Grizzlies,120,Los Angeles Clippers,114,0,16748.0,Crypto.com Arena,Memphis Grizzlies,False
+48,Mon Oct 25 2021,10:30p,Portland Trail Blazers,86,Los Angeles Clippers,116,0,15672.0,Crypto.com Arena,Los Angeles Clippers,True
+63,Wed Oct 27 2021,10:30p,Cleveland Cavaliers,92,Los Angeles Clippers,79,0,13276.0,Crypto.com Arena,Cleveland Cavaliers,False
+75,Fri Oct 29 2021,10:00p,Los Angeles Clippers,92,Portland Trail Blazers,111,0,16510.0,Moda Center,Portland Trail Blazers,True
+101,Mon Nov 1 2021,10:30p,Oklahoma City Thunder,94,Los Angeles Clippers,99,0,13722.0,Crypto.com Arena,Los Angeles Clippers,True
+114,Wed Nov 3 2021,8:00p,Los Angeles Clippers,126,Minnesota Timberwolves,115,0,15386.0,Target Center,Los Angeles Clippers,False
+128,Fri Nov 5 2021,8:00p,Los Angeles Clippers,104,Minnesota Timberwolves,84,0,17136.0,Target Center,Los Angeles Clippers,False
+145,Sun Nov 7 2021,9:00p,Charlotte Hornets,106,Los Angeles Clippers,120,0,15781.0,Crypto.com Arena,Los Angeles Clippers,True
+156,Tue Nov 9 2021,10:00p,Portland Trail Blazers,109,Los Angeles Clippers,117,0,14131.0,Crypto.com Arena,Los Angeles Clippers,True
+172,Thu Nov 11 2021,10:30p,Miami Heat,109,Los Angeles Clippers,112,0,16150.0,Crypto.com Arena,Los Angeles Clippers,True
+190,Sat Nov 13 2021,10:30p,Minnesota Timberwolves,102,Los Angeles Clippers,129,0,15285.0,Crypto.com Arena,Los Angeles Clippers,True
+197,Sun Nov 14 2021,9:30p,Chicago Bulls,100,Los Angeles Clippers,90,0,17899.0,Crypto.com Arena,Chicago Bulls,False
+211,Tue Nov 16 2021,10:30p,San Antonio Spurs,92,Los Angeles Clippers,106,0,13298.0,Crypto.com Arena,Los Angeles Clippers,True
+225,Thu Nov 18 2021,8:00p,Los Angeles Clippers,108,Memphis Grizzlies,120,0,13419.0,FedEx Forum,Memphis Grizzlies,True
+234,Fri Nov 19 2021,8:00p,Los Angeles Clippers,81,New Orleans Pelicans,94,0,15274.0,Smoothie King Center,New Orleans Pelicans,True
+247,Sun Nov 21 2021,3:30p,Dallas Mavericks,91,Los Angeles Clippers,97,0,17149.0,Crypto.com Arena,Los Angeles Clippers,True
+265,Tue Nov 23 2021,10:30p,Dallas Mavericks,112,Los Angeles Clippers,104,1,17067.0,Crypto.com Arena,Dallas Mavericks,False
+279,Fri Nov 26 2021,3:30p,Detroit Pistons,96,Los Angeles Clippers,107,0,18139.0,Crypto.com Arena,Los Angeles Clippers,True
+299,Sun Nov 28 2021,3:30p,Golden State Warriors,105,Los Angeles Clippers,90,0,19068.0,Crypto.com Arena,Golden State Warriors,False
+312,Mon Nov 29 2021,10:30p,New Orleans Pelicans,123,Los Angeles Clippers,104,0,15691.0,Crypto.com Arena,New Orleans Pelicans,False
+326,Wed Dec 1 2021,10:30p,Sacramento Kings,124,Los Angeles Clippers,115,0,17217.0,Crypto.com Arena,Sacramento Kings,False
+340,Fri Dec 3 2021,10:00p,Los Angeles Clippers,119,Los Angeles Lakers,115,0,18997.0,Crypto.com Arena,Los Angeles Clippers,False
+347,Sat Dec 4 2021,10:00p,Los Angeles Clippers,99,Sacramento Kings,104,0,15004.0,Golden 1 Center,Sacramento Kings,True
+361,Mon Dec 6 2021,10:00p,Los Angeles Clippers,102,Portland Trail Blazers,90,0,15865.0,Moda Center,Los Angeles Clippers,False
+377,Wed Dec 8 2021,10:30p,Boston Celtics,111,Los Angeles Clippers,114,0,17064.0,Crypto.com Arena,Los Angeles Clippers,True
+390,Sat Dec 11 2021,3:30p,Orlando Magic,104,Los Angeles Clippers,106,0,17156.0,Crypto.com Arena,Los Angeles Clippers,True
+411,Mon Dec 13 2021,10:30p,Phoenix Suns,95,Los Angeles Clippers,111,0,17909.0,Crypto.com Arena,Los Angeles Clippers,True
+425,Wed Dec 15 2021,10:00p,Los Angeles Clippers,103,Utah Jazz,124,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True
+442,Sat Dec 18 2021,8:00p,Los Angeles Clippers,103,Oklahoma City Thunder,104,0,15123.0,Paycom Center,Oklahoma City Thunder,True
+456,Mon Dec 20 2021,10:30p,San Antonio Spurs,116,Los Angeles Clippers,92,0,18096.0,Crypto.com Arena,San Antonio Spurs,False
+466,Wed Dec 22 2021,10:00p,Los Angeles Clippers,105,Sacramento Kings,89,0,15386.0,Golden 1 Center,Los Angeles Clippers,False
+490,Sun Dec 26 2021,9:00p,Denver Nuggets,103,Los Angeles Clippers,100,0,17759.0,Crypto.com Arena,Denver Nuggets,False
+497,Mon Dec 27 2021,10:30p,Brooklyn Nets,124,Los Angeles Clippers,108,0,17128.0,Crypto.com Arena,Brooklyn Nets,False
+508,Wed Dec 29 2021,7:30p,Los Angeles Clippers,91,Boston Celtics,82,0,19156.0,TD Garden,Los Angeles Clippers,False
+522,Fri Dec 31 2021,7:30p,Los Angeles Clippers,108,Toronto Raptors,116,0,0.0,Scotiabank Arena,Toronto Raptors,True
+530,Sat Jan 1 2022,7:30p,Los Angeles Clippers,120,Brooklyn Nets,116,0,17732.0,Barclays Center,Los Angeles Clippers,False
+549,Mon Jan 3 2022,10:30p,Minnesota Timberwolves,122,Los Angeles Clippers,104,0,15959.0,Crypto.com Arena,Minnesota Timberwolves,False
+569,Thu Jan 6 2022,10:00p,Los Angeles Clippers,89,Phoenix Suns,106,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True
+579,Sat Jan 8 2022,3:30p,Memphis Grizzlies,123,Los Angeles Clippers,108,0,17936.0,Crypto.com Arena,Memphis Grizzlies,False
+586,Sun Jan 9 2022,3:30p,Atlanta Hawks,93,Los Angeles Clippers,106,0,14836.0,Crypto.com Arena,Los Angeles Clippers,True
+607,Tue Jan 11 2022,10:30p,Denver Nuggets,85,Los Angeles Clippers,87,0,15077.0,Crypto.com Arena,Los Angeles Clippers,True
+619,Thu Jan 13 2022,8:00p,Los Angeles Clippers,89,New Orleans Pelicans,113,0,15406.0,Smoothie King Center,New Orleans Pelicans,True
+638,Sat Jan 15 2022,8:30p,Los Angeles Clippers,94,San Antonio Spurs,101,0,13223.0,AT&T Center,San Antonio Spurs,True
+649,Mon Jan 17 2022,3:30p,Indiana Pacers,133,Los Angeles Clippers,139,0,15080.0,Crypto.com Arena,Los Angeles Clippers,True
+669,Wed Jan 19 2022,10:00p,Los Angeles Clippers,128,Denver Nuggets,130,1,14547.0,Ball Arena,Denver Nuggets,True
+677,Fri Jan 21 2022,7:00p,Los Angeles Clippers,102,Philadelphia 76ers,101,0,20182.0,Wells Fargo Center,Los Angeles Clippers,False
+689,Sun Jan 23 2022,1:00p,Los Angeles Clippers,102,New York Knicks,110,0,19812.0,Madison Square Garden (IV),New York Knicks,True
+707,Tue Jan 25 2022,7:00p,Los Angeles Clippers,116,Washington Wizards,115,0,13544.0,Capital One Arena,Los Angeles Clippers,False
+715,Wed Jan 26 2022,7:00p,Los Angeles Clippers,111,Orlando Magic,102,0,12448.0,Amway Center,Los Angeles Clippers,False
+730,Fri Jan 28 2022,8:00p,Los Angeles Clippers,114,Miami Heat,121,0,19600.0,FTX Arena,Miami Heat,True
+743,Sun Jan 30 2022,1:00p,Los Angeles Clippers,115,Charlotte Hornets,90,0,18674.0,Spectrum Center,Los Angeles Clippers,False
+751,Mon Jan 31 2022,7:00p,Los Angeles Clippers,116,Indiana Pacers,122,0,14629.0,Gainbridge Fieldhouse,Indiana Pacers,True
+779,Thu Feb 3 2022,10:00p,Los Angeles Lakers,110,Los Angeles Clippers,111,0,19068.0,Crypto.com Arena,Los Angeles Clippers,True
+802,Sun Feb 6 2022,9:00p,Milwaukee Bucks,137,Los Angeles Clippers,113,0,17395.0,Crypto.com Arena,Milwaukee Bucks,False
+811,Tue Feb 8 2022,8:00p,Los Angeles Clippers,109,Memphis Grizzlies,135,0,16101.0,FedEx Forum,Memphis Grizzlies,True
+828,Thu Feb 10 2022,8:30p,Los Angeles Clippers,105,Dallas Mavericks,112,0,19532.0,American Airlines Center,Dallas Mavericks,True
+846,Sat Feb 12 2022,8:30p,Los Angeles Clippers,99,Dallas Mavericks,97,0,20028.0,American Airlines Center,Los Angeles Clippers,False
+859,Mon Feb 14 2022,10:30p,Golden State Warriors,104,Los Angeles Clippers,119,0,19068.0,Crypto.com Arena,Los Angeles Clippers,True
+866,Tue Feb 15 2022,10:00p,Los Angeles Clippers,96,Phoenix Suns,103,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True
+882,Thu Feb 17 2022,10:30p,Houston Rockets,111,Los Angeles Clippers,142,0,17519.0,Crypto.com Arena,Los Angeles Clippers,True
+898,Fri Feb 25 2022,10:00p,Los Angeles Clippers,105,Los Angeles Lakers,102,0,18997.0,Crypto.com Arena,Los Angeles Clippers,False
+910,Sun Feb 27 2022,7:00p,Los Angeles Clippers,99,Houston Rockets,98,0,14324.0,Toyota Center,Los Angeles Clippers,False
+924,Tue Mar 1 2022,8:00p,Los Angeles Clippers,113,Houston Rockets,100,0,12949.0,Toyota Center,Los Angeles Clippers,False
+941,Thu Mar 3 2022,10:00p,Los Angeles Lakers,111,Los Angeles Clippers,132,0,19068.0,Crypto.com Arena,Los Angeles Clippers,True
+964,Sun Mar 6 2022,10:00p,New York Knicks,116,Los Angeles Clippers,93,0,17422.0,Crypto.com Arena,New York Knicks,False
+978,Tue Mar 8 2022,10:00p,Los Angeles Clippers,97,Golden State Warriors,112,0,18064.0,Chase Center,Golden State Warriors,True
+990,Wed Mar 9 2022,10:30p,Washington Wizards,109,Los Angeles Clippers,115,0,15282.0,Crypto.com Arena,Los Angeles Clippers,True
+994,Fri Mar 11 2022,7:30p,Los Angeles Clippers,106,Atlanta Hawks,112,0,16862.0,State Farm Arena,Atlanta Hawks,True
+1011,Sun Mar 13 2022,3:00p,Los Angeles Clippers,106,Detroit Pistons,102,0,19313.0,Little Caesars Arena,Los Angeles Clippers,False
+1018,Mon Mar 14 2022,7:00p,Los Angeles Clippers,111,Cleveland Cavaliers,120,1,18742.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True
+1042,Wed Mar 16 2022,10:30p,Toronto Raptors,103,Los Angeles Clippers,100,0,19068.0,Crypto.com Arena,Toronto Raptors,False
+1053,Fri Mar 18 2022,9:00p,Los Angeles Clippers,92,Utah Jazz,121,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True
+1081,Tue Mar 22 2022,10:00p,Los Angeles Clippers,115,Denver Nuggets,127,0,16089.0,Ball Arena,Denver Nuggets,True
+1104,Fri Mar 25 2022,10:30p,Philadelphia 76ers,122,Los Angeles Clippers,97,0,19068.0,Crypto.com Arena,Philadelphia 76ers,False
+1133,Tue Mar 29 2022,10:00p,Utah Jazz,115,Los Angeles Clippers,121,0,19068.0,Crypto.com Arena,Los Angeles Clippers,True
+1148,Thu Mar 31 2022,8:00p,Los Angeles Clippers,130,Chicago Bulls,135,1,21519.0,United Center,Chicago Bulls,True
+1155,Fri Apr 1 2022,8:00p,Los Angeles Clippers,153,Milwaukee Bucks,119,0,18023.0,Fiserv Forum,Los Angeles Clippers,False
+1176,Sun Apr 3 2022,9:30p,New Orleans Pelicans,100,Los Angeles Clippers,119,0,16840.0,Crypto.com Arena,Los Angeles Clippers,True
+1194,Wed Apr 6 2022,10:00p,Phoenix Suns,109,Los Angeles Clippers,113,0,19068.0,Crypto.com Arena,Los Angeles Clippers,True
+1214,Sat Apr 9 2022,9:30p,Sacramento Kings,98,Los Angeles Clippers,117,0,17568.0,Crypto.com Arena,Los Angeles Clippers,True
+1226,Sun Apr 10 2022,9:30p,Oklahoma City Thunder,88,Los Angeles Clippers,138,0,18210.0,Crypto.com Arena,Los Angeles Clippers,True
+1231,Tue Apr 12 2022,9:30p,Los Angeles Clippers,104,Minnesota Timberwolves,109,0,17136.0,Target Center,Minnesota Timberwolves,True
+1235,Fri Apr 15 2022,10:00p,New Orleans Pelicans,105,Los Angeles Clippers,101,0,19068.0,Crypto.com Arena,New Orleans Pelicans,False
