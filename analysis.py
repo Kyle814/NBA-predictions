@@ -10,6 +10,6 @@ import pandas as pd
 # figure out a more sophisticated way to identify unimportant variables
 # we will run it only over 2021-2022 season
 
-
 stats_2021 = pd.read_csv("./CSVs/Team Stats/2021-stats.csv") # stats per team for 2021
-games_2021 = pd.read_csv("./CSVs/All_teams/nbawholeteams.csv")
+games_2021 = pd.read_csv("./CSVs/All_teams/nbawholeteamstrimmed.csv") # points differential per team for 2021
+
