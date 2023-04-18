@@ -1,0 +1,89 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+5,Wed Oct 20 2021,19:30,Washington Wizards,98,Toronto Raptors,83,0,19800.0,Scotiabank Arena,Washington Wizards,False,-15,15
+19,Fri Oct 22 2021,19:30,Toronto Raptors,115,Boston Celtics,83,0,19156.0,TD Garden,Toronto Raptors,False,-32,32
+28,Sat Oct 23 2021,19:30,Dallas Mavericks,103,Toronto Raptors,95,0,19800.0,Scotiabank Arena,Dallas Mavericks,False,-8,8
+42,Mon Oct 25 2021,19:30,Chicago Bulls,111,Toronto Raptors,108,0,19800.0,Scotiabank Arena,Chicago Bulls,False,-3,3
+57,Wed Oct 27 2021,19:30,Indiana Pacers,100,Toronto Raptors,118,0,19800.0,Scotiabank Arena,Toronto Raptors,True,18,18
+70,Fri Oct 29 2021,19:00,Orlando Magic,109,Toronto Raptors,110,0,19800.0,Scotiabank Arena,Toronto Raptors,True,1,1
+80,Sat Oct 30 2021,19:30,Toronto Raptors,97,Indiana Pacers,94,0,10578.0,Gainbridge Fieldhouse,Toronto Raptors,False,-3,3
+98,Mon Nov 1 2021,19:30,Toronto Raptors,113,New York Knicks,104,0,16528.0,Madison Square Garden (IV),Toronto Raptors,False,-9,9
+111,Wed Nov 3 2021,19:00,Toronto Raptors,109,Washington Wizards,100,0,13538.0,Capital One Arena,Toronto Raptors,False,-9,9
+127,Fri Nov 5 2021,19:30,Cleveland Cavaliers,102,Toronto Raptors,101,0,19800.0,Scotiabank Arena,Cleveland Cavaliers,False,-1,1
+138,Sun Nov 7 2021,15:30,Brooklyn Nets,116,Toronto Raptors,103,0,19800.0,Scotiabank Arena,Brooklyn Nets,False,-13,13
+159,Wed Nov 10 2021,19:30,Toronto Raptors,88,Boston Celtics,104,0,19156.0,TD Garden,Boston Celtics,True,16,16
+170,Thu Nov 11 2021,19:00,Toronto Raptors,115,Philadelphia 76ers,109,0,20112.0,Wells Fargo Center,Toronto Raptors,False,-6,6
+188,Sat Nov 13 2021,19:30,Detroit Pistons,127,Toronto Raptors,121,0,19800.0,Scotiabank Arena,Detroit Pistons,False,-6,6
+207,Mon Nov 15 2021,22:00,Toronto Raptors,113,Portland Trail Blazers,118,0,16142.0,Moda Center,Portland Trail Blazers,True,5,5
+228,Thu Nov 18 2021,21:00,Toronto Raptors,103,Utah Jazz,119,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,16,16
+237,Fri Nov 19 2021,22:00,Toronto Raptors,108,Sacramento Kings,89,0,13159.0,Golden 1 Center,Toronto Raptors,False,-19,19
+251,Sun Nov 21 2021,20:30,Toronto Raptors,104,Golden State Warriors,119,0,18064.0,Chase Center,Golden State Warriors,True,15,15
+271,Wed Nov 24 2021,20:00,Toronto Raptors,126,Memphis Grizzlies,113,0,15409.0,FedEx Forum,Toronto Raptors,False,-13,13
+283,Fri Nov 26 2021,20:00,Toronto Raptors,97,Indiana Pacers,114,0,13508.0,Gainbridge Fieldhouse,Indiana Pacers,True,17,17
+302,Sun Nov 28 2021,18:00,Boston Celtics,109,Toronto Raptors,97,0,19800.0,Scotiabank Arena,Boston Celtics,False,-12,12
+314,Tue Nov 30 2021,19:30,Memphis Grizzlies,98,Toronto Raptors,91,0,19800.0,Scotiabank Arena,Memphis Grizzlies,False,-7,7
+328,Thu Dec 2 2021,19:30,Milwaukee Bucks,93,Toronto Raptors,97,0,19800.0,Scotiabank Arena,Toronto Raptors,True,4,4
+350,Sun Dec 5 2021,18:00,Washington Wizards,90,Toronto Raptors,102,0,19800.0,Scotiabank Arena,Toronto Raptors,True,12,12
+370,Wed Dec 8 2021,19:30,Oklahoma City Thunder,110,Toronto Raptors,109,0,19800.0,Scotiabank Arena,Oklahoma City Thunder,False,-1,1
+384,Fri Dec 10 2021,19:30,New York Knicks,87,Toronto Raptors,90,0,19800.0,Scotiabank Arena,Toronto Raptors,True,3,3
+405,Mon Dec 13 2021,19:00,Sacramento Kings,101,Toronto Raptors,124,0,19463.0,Scotiabank Arena,Toronto Raptors,True,23,23
+412,Tue Dec 14 2021,19:30,Toronto Raptors,129,Brooklyn Nets,131,1,17325.0,Barclays Center,Brooklyn Nets,True,2,2
+441,Sat Dec 18 2021,19:30,Golden State Warriors,100,Toronto Raptors,119,0,7988.0,Scotiabank Arena,Toronto Raptors,True,19,19
+484,Sun Dec 26 2021,18:00,Toronto Raptors,99,Cleveland Cavaliers,144,0,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,45,45
+500,Tue Dec 28 2021,19:30,Philadelphia 76ers,114,Toronto Raptors,109,0,6960.0,Scotiabank Arena,Philadelphia 76ers,False,-5,5
+522,Fri Dec 31 2021,19:30,Los Angeles Clippers,108,Toronto Raptors,116,0,0.0,Scotiabank Arena,Toronto Raptors,True,8,8
+533,Sun Jan 2 2022,15:30,New York Knicks,105,Toronto Raptors,120,0,0.0,Scotiabank Arena,Toronto Raptors,True,15,15
+551,Tue Jan 4 2022,19:00,San Antonio Spurs,104,Toronto Raptors,129,0,0.0,Scotiabank Arena,Toronto Raptors,True,25,25
+561,Wed Jan 5 2022,20:00,Toronto Raptors,117,Milwaukee Bucks,111,0,17341.0,Fiserv Forum,Toronto Raptors,False,-6,6
+572,Fri Jan 7 2022,19:30,Utah Jazz,108,Toronto Raptors,122,0,0.0,Scotiabank Arena,Toronto Raptors,True,14,14
+588,Sun Jan 9 2022,18:00,New Orleans Pelicans,101,Toronto Raptors,105,0,,Scotiabank Arena,Toronto Raptors,True,4,4
+603,Tue Jan 11 2022,19:30,Phoenix Suns,99,Toronto Raptors,95,0,0.0,Scotiabank Arena,Phoenix Suns,False,-4,4
+623,Fri Jan 14 2022,19:00,Toronto Raptors,87,Detroit Pistons,103,0,18011.0,Little Caesars Arena,Detroit Pistons,True,16,16
+631,Sat Jan 15 2022,18:30,Toronto Raptors,103,Milwaukee Bucks,96,0,17341.0,Fiserv Forum,Toronto Raptors,False,-7,7
+653,Mon Jan 17 2022,19:30,Toronto Raptors,99,Miami Heat,104,0,19600.0,FTX Arena,Miami Heat,True,5,5
+666,Wed Jan 19 2022,20:30,Toronto Raptors,98,Dallas Mavericks,102,0,19218.0,American Airlines Center,Dallas Mavericks,True,4,4
+681,Fri Jan 21 2022,20:00,Toronto Raptors,109,Washington Wizards,105,0,14755.0,Capital One Arena,Toronto Raptors,False,-4,4
+693,Sun Jan 23 2022,18:00,Portland Trail Blazers,114,Toronto Raptors,105,0,,Scotiabank Arena,Portland Trail Blazers,False,-9,9
+706,Tue Jan 25 2022,19:00,Charlotte Hornets,113,Toronto Raptors,125,0,0.0,Scotiabank Arena,Toronto Raptors,True,12,12
+719,Wed Jan 26 2022,20:00,Toronto Raptors,105,Chicago Bulls,111,0,20269.0,United Center,Chicago Bulls,True,6,6
+740,Sat Jan 29 2022,20:00,Toronto Raptors,124,Miami Heat,120,3,19600.0,FTX Arena,Toronto Raptors,False,-4,4
+753,Mon Jan 31 2022,19:30,Toronto Raptors,106,Atlanta Hawks,100,0,14168.0,State Farm Arena,Toronto Raptors,False,-6,6
+760,Tue Feb 1 2022,19:30,Miami Heat,106,Toronto Raptors,110,0,,Scotiabank Arena,Toronto Raptors,True,4,4
+777,Thu Feb 3 2022,19:30,Chicago Bulls,120,Toronto Raptors,127,1,,Scotiabank Arena,Toronto Raptors,True,7,7
+783,Fri Feb 4 2022,19:30,Atlanta Hawks,114,Toronto Raptors,125,0,,Scotiabank Arena,Toronto Raptors,True,11,11
+803,Mon Feb 7 2022,19:00,Toronto Raptors,116,Charlotte Hornets,101,0,14102.0,Spectrum Center,Toronto Raptors,False,-15,15
+820,Wed Feb 9 2022,20:00,Toronto Raptors,117,Oklahoma City Thunder,98,0,13858.0,Paycom Center,Toronto Raptors,False,-19,19
+827,Thu Feb 10 2022,20:00,Toronto Raptors,139,Houston Rockets,120,0,16129.0,Toyota Center,Toronto Raptors,False,-19,19
+843,Sat Feb 12 2022,19:30,Denver Nuggets,110,Toronto Raptors,109,0,0.0,Scotiabank Arena,Denver Nuggets,False,-1,1
+856,Mon Feb 14 2022,20:00,Toronto Raptors,90,New Orleans Pelicans,120,0,15319.0,Smoothie King Center,New Orleans Pelicans,True,30,30
+873,Wed Feb 16 2022,20:00,Toronto Raptors,103,Minnesota Timberwolves,91,0,15982.0,Target Center,Toronto Raptors,False,-12,12
+890,Fri Feb 25 2022,19:00,Toronto Raptors,93,Charlotte Hornets,125,0,17577.0,Spectrum Center,Charlotte Hornets,True,32,32
+900,Sat Feb 26 2022,19:30,Toronto Raptors,100,Atlanta Hawks,127,0,17870.0,State Farm Arena,Atlanta Hawks,True,27,27
+916,Mon Feb 28 2022,19:30,Toronto Raptors,133,Brooklyn Nets,97,0,17112.0,Barclays Center,Toronto Raptors,False,-36,36
+923,Tue Mar 1 2022,19:30,Brooklyn Nets,108,Toronto Raptors,109,0,18903.0,Scotiabank Arena,Toronto Raptors,True,1,1
+938,Thu Mar 3 2022,19:30,Detroit Pistons,108,Toronto Raptors,106,0,19548.0,Scotiabank Arena,Detroit Pistons,False,-2,2
+946,Fri Mar 4 2022,19:30,Orlando Magic,103,Toronto Raptors,97,0,19081.0,Scotiabank Arena,Orlando Magic,False,-6,6
+962,Sun Mar 6 2022,19:30,Toronto Raptors,96,Cleveland Cavaliers,104,0,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,8,8
+987,Wed Mar 9 2022,20:30,Toronto Raptors,119,San Antonio Spurs,104,0,15121.0,AT&T Center,Toronto Raptors,False,-15,15
+1001,Fri Mar 11 2022,21:00,Toronto Raptors,117,Phoenix Suns,112,0,17071.0,Phoenix Suns Arena,Toronto Raptors,False,-5,5
+1007,Sat Mar 12 2022,21:00,Toronto Raptors,127,Denver Nuggets,115,0,18659.0,Ball Arena,Toronto Raptors,False,-12,12
+1026,Mon Mar 14 2022,22:30,Toronto Raptors,114,Los Angeles Lakers,103,0,18228.0,Crypto.com Arena,Toronto Raptors,False,-11,11
+1042,Wed Mar 16 2022,22:30,Toronto Raptors,103,Los Angeles Clippers,100,0,19068.0,Crypto.com Arena,Toronto Raptors,False,-3,3
+1049,Fri Mar 18 2022,19:30,Los Angeles Lakers,128,Toronto Raptors,123,1,19800.0,Scotiabank Arena,Los Angeles Lakers,False,-5,5
+1068,Sun Mar 20 2022,20:30,Toronto Raptors,93,Philadelphia 76ers,88,0,21180.0,Wells Fargo Center,Toronto Raptors,False,-5,5
+1074,Mon Mar 21 2022,20:00,Toronto Raptors,99,Chicago Bulls,113,0,21778.0,United Center,Chicago Bulls,True,14,14
+1093,Thu Mar 24 2022,19:30,Cleveland Cavaliers,104,Toronto Raptors,117,0,19800.0,Scotiabank Arena,Toronto Raptors,True,13,13
+1107,Sat Mar 26 2022,19:30,Indiana Pacers,91,Toronto Raptors,131,0,19800.0,Scotiabank Arena,Toronto Raptors,True,40,40
+1125,Mon Mar 28 2022,19:30,Boston Celtics,112,Toronto Raptors,115,1,19800.0,Scotiabank Arena,Toronto Raptors,True,3,3
+1139,Wed Mar 30 2022,19:30,Minnesota Timberwolves,102,Toronto Raptors,125,0,19800.0,Scotiabank Arena,Toronto Raptors,True,23,23
+1150,Fri Apr 1 2022,19:00,Toronto Raptors,102,Orlando Magic,89,0,17566.0,Amway Center,Toronto Raptors,False,-13,13
+1174,Sun Apr 3 2022,19:00,Miami Heat,114,Toronto Raptors,109,0,19800.0,Scotiabank Arena,Miami Heat,False,-5,5
+1181,Tue Apr 5 2022,19:30,Atlanta Hawks,108,Toronto Raptors,118,0,19800.0,Scotiabank Arena,Toronto Raptors,True,10,10
+1197,Thu Apr 7 2022,19:30,Philadelphia 76ers,114,Toronto Raptors,119,0,19800.0,Scotiabank Arena,Toronto Raptors,True,5,5
+1205,Fri Apr 8 2022,19:30,Houston Rockets,115,Toronto Raptors,117,0,19800.0,Scotiabank Arena,Toronto Raptors,True,2,2
+1220,Sun Apr 10 2022,19:00,Toronto Raptors,94,New York Knicks,105,0,19812.0,Madison Square Garden (IV),New York Knicks,True,11,11
+1238,Sat Apr 16 2022,18:00,Toronto Raptors,111,Philadelphia 76ers,131,0,20610.0,Wells Fargo Center,Philadelphia 76ers,True,20,20
+1244,Mon Apr 18 2022,19:30,Toronto Raptors,97,Philadelphia 76ers,112,0,20974.0,Wells Fargo Center,Philadelphia 76ers,True,15,15
+1251,Wed Apr 20 2022,20:00,Philadelphia 76ers,104,Toronto Raptors,101,1,19800.0,Scotiabank Arena,Philadelphia 76ers,False,-3,3
+1259,Sat Apr 23 2022,14:00,Philadelphia 76ers,102,Toronto Raptors,110,0,19800.0,Scotiabank Arena,Toronto Raptors,True,8,8
+1268,Mon Apr 25 2022,20:00,Toronto Raptors,103,Philadelphia 76ers,88,0,20517.0,Wells Fargo Center,Toronto Raptors,False,-15,15
+1275,Thu Apr 28 2022,19:00,Philadelphia 76ers,132,Toronto Raptors,97,0,19800.0,Scotiabank Arena,Philadelphia 76ers,False,-35,35

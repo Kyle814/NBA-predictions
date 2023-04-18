@@ -1,0 +1,88 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+0,Tue Oct 19 2021,19:30,Brooklyn Nets,104,Milwaukee Bucks,127,0,17341.0,Fiserv Forum,Milwaukee Bucks,True,23,23
+20,Fri Oct 22 2021,19:30,Brooklyn Nets,114,Philadelphia 76ers,109,0,20367.0,Wells Fargo Center,Brooklyn Nets,False,-5,5
+34,Sun Oct 24 2021,16:00,Charlotte Hornets,111,Brooklyn Nets,95,0,17732.0,Barclays Center,Charlotte Hornets,False,-16,16
+44,Mon Oct 25 2021,19:30,Washington Wizards,90,Brooklyn Nets,104,0,14487.0,Barclays Center,Brooklyn Nets,True,14,14
+56,Wed Oct 27 2021,19:30,Miami Heat,106,Brooklyn Nets,93,0,17732.0,Barclays Center,Miami Heat,False,-13,13
+72,Fri Oct 29 2021,19:30,Indiana Pacers,98,Brooklyn Nets,105,0,16139.0,Barclays Center,Brooklyn Nets,True,7,7
+91,Sun Oct 31 2021,19:30,Detroit Pistons,91,Brooklyn Nets,117,0,13507.0,Barclays Center,Brooklyn Nets,True,26,26
+112,Wed Nov 3 2021,19:30,Atlanta Hawks,108,Brooklyn Nets,117,0,17323.0,Barclays Center,Brooklyn Nets,True,9,9
+123,Fri Nov 5 2021,19:00,Brooklyn Nets,96,Detroit Pistons,90,0,14235.0,Little Caesars Arena,Brooklyn Nets,False,-6,6
+138,Sun Nov 7 2021,15:30,Brooklyn Nets,116,Toronto Raptors,103,0,19800.0,Scotiabank Arena,Brooklyn Nets,False,-13,13
+147,Mon Nov 8 2021,20:00,Brooklyn Nets,95,Chicago Bulls,118,0,19459.0,United Center,Chicago Bulls,True,23,23
+158,Wed Nov 10 2021,19:00,Brooklyn Nets,123,Orlando Magic,90,0,13882.0,Amway Center,Brooklyn Nets,False,-33,33
+178,Fri Nov 12 2021,20:00,Brooklyn Nets,120,New Orleans Pelicans,112,0,14650.0,Smoothie King Center,Brooklyn Nets,False,-8,8
+195,Sun Nov 14 2021,19:00,Brooklyn Nets,120,Oklahoma City Thunder,96,0,15080.0,Paycom Center,Brooklyn Nets,False,-24,24
+209,Tue Nov 16 2021,19:30,Golden State Warriors,117,Brooklyn Nets,99,0,17732.0,Barclays Center,Golden State Warriors,False,-18,18
+215,Wed Nov 17 2021,19:30,Cleveland Cavaliers,99,Brooklyn Nets,109,0,16922.0,Barclays Center,Brooklyn Nets,True,10,10
+232,Fri Nov 19 2021,19:30,Orlando Magic,113,Brooklyn Nets,115,0,16966.0,Barclays Center,Brooklyn Nets,True,2,2
+252,Mon Nov 22 2021,19:00,Brooklyn Nets,117,Cleveland Cavaliers,112,0,17387.0,Rocket Mortgage Fieldhouse,Brooklyn Nets,False,-5,5
+269,Wed Nov 24 2021,19:30,Brooklyn Nets,123,Boston Celtics,104,0,19156.0,TD Garden,Brooklyn Nets,False,-19,19
+293,Sat Nov 27 2021,19:30,Phoenix Suns,113,Brooklyn Nets,107,0,18071.0,Barclays Center,Phoenix Suns,False,-6,6
+313,Tue Nov 30 2021,19:30,New York Knicks,110,Brooklyn Nets,112,0,18081.0,Barclays Center,Brooklyn Nets,True,2,2
+335,Fri Dec 3 2021,19:30,Minnesota Timberwolves,105,Brooklyn Nets,110,0,17732.0,Barclays Center,Brooklyn Nets,True,5,5
+342,Sat Dec 4 2021,20:00,Chicago Bulls,111,Brooklyn Nets,107,0,18116.0,Barclays Center,Chicago Bulls,False,-4,4
+362,Tue Dec 7 2021,19:30,Brooklyn Nets,102,Dallas Mavericks,99,0,19559.0,American Airlines Center,Brooklyn Nets,False,-3,3
+371,Wed Dec 8 2021,20:00,Brooklyn Nets,104,Houston Rockets,114,0,15834.0,Toyota Center,Houston Rockets,True,10,10
+383,Fri Dec 10 2021,19:30,Brooklyn Nets,113,Atlanta Hawks,105,0,17074.0,State Farm Arena,Brooklyn Nets,False,-8,8
+398,Sun Dec 12 2021,18:00,Brooklyn Nets,116,Detroit Pistons,104,0,15289.0,Little Caesars Arena,Brooklyn Nets,False,-12,12
+412,Tue Dec 14 2021,19:30,Toronto Raptors,129,Brooklyn Nets,131,1,17325.0,Barclays Center,Brooklyn Nets,True,2,2
+427,Thu Dec 16 2021,19:30,Philadelphia 76ers,105,Brooklyn Nets,114,0,17053.0,Barclays Center,Brooklyn Nets,True,9,9
+440,Sat Dec 18 2021,19:30,Orlando Magic,100,Brooklyn Nets,93,0,16292.0,Barclays Center,Orlando Magic,False,-7,7
+481,Sat Dec 25 2021,20:00,Brooklyn Nets,122,Los Angeles Lakers,115,0,18997.0,Crypto.com Arena,Brooklyn Nets,False,-7,7
+497,Mon Dec 27 2021,22:30,Brooklyn Nets,124,Los Angeles Clippers,108,0,17128.0,Crypto.com Arena,Brooklyn Nets,False,-16,16
+514,Thu Dec 30 2021,19:00,Philadelphia 76ers,110,Brooklyn Nets,102,0,17920.0,Barclays Center,Philadelphia 76ers,False,-8,8
+530,Sat Jan 1 2022,19:30,Los Angeles Clippers,120,Brooklyn Nets,116,0,17732.0,Barclays Center,Los Angeles Clippers,False,-4,4
+542,Mon Jan 3 2022,19:30,Memphis Grizzlies,118,Brooklyn Nets,104,0,17089.0,Barclays Center,Memphis Grizzlies,False,-14,14
+560,Wed Jan 5 2022,19:30,Brooklyn Nets,129,Indiana Pacers,121,0,14176.0,Gainbridge Fieldhouse,Brooklyn Nets,False,-8,8
+571,Fri Jan 7 2022,19:30,Milwaukee Bucks,121,Brooklyn Nets,109,0,17732.0,Barclays Center,Milwaukee Bucks,False,-12,12
+585,Sun Jan 9 2022,24:00,San Antonio Spurs,119,Brooklyn Nets,121,1,15606.0,Barclays Center,Brooklyn Nets,True,2,2
+600,Mon Jan 10 2022,22:00,Brooklyn Nets,108,Portland Trail Blazers,114,0,16379.0,Moda Center,Portland Trail Blazers,True,6,6
+615,Wed Jan 12 2022,22:00,Brooklyn Nets,138,Chicago Bulls,112,0,21698.0,United Center,Brooklyn Nets,False,-26,26
+620,Thu Jan 13 2022,20:30,Oklahoma City Thunder,130,Brooklyn Nets,109,0,16964.0,Barclays Center,Oklahoma City Thunder,False,-21,21
+634,Sat Jan 15 2022,19:30,New Orleans Pelicans,105,Brooklyn Nets,120,0,17034.0,Barclays Center,Brooklyn Nets,True,15,15
+648,Mon Jan 17 2022,15:00,Brooklyn Nets,107,Cleveland Cavaliers,114,0,18105.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,7,7
+660,Wed Jan 19 2022,19:00,Brooklyn Nets,119,Washington Wizards,118,0,15380.0,Capital One Arena,Brooklyn Nets,False,-1,1
+682,Fri Jan 21 2022,20:30,Brooklyn Nets,117,San Antonio Spurs,102,0,15068.0,AT&T Center,Brooklyn Nets,False,-15,15
+698,Sun Jan 23 2022,20:00,Brooklyn Nets,125,Minnesota Timberwolves,136,0,16475.0,Target Center,Minnesota Timberwolves,True,11,11
+709,Tue Jan 25 2022,19:30,Los Angeles Lakers,106,Brooklyn Nets,96,0,18126.0,Barclays Center,Los Angeles Lakers,False,-10,10
+718,Wed Jan 26 2022,20:00,Denver Nuggets,124,Brooklyn Nets,118,0,18011.0,Barclays Center,Denver Nuggets,False,-6,6
+741,Sat Jan 29 2022,20:30,Brooklyn Nets,106,Golden State Warriors,110,0,18064.0,Chase Center,Golden State Warriors,True,4,4
+764,Tue Feb 1 2022,22:00,Brooklyn Nets,111,Phoenix Suns,121,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,10,10
+771,Wed Feb 2 2022,22:00,Brooklyn Nets,101,Sacramento Kings,112,0,13153.0,Golden 1 Center,Sacramento Kings,True,11,11
+786,Fri Feb 4 2022,21:00,Brooklyn Nets,102,Utah Jazz,125,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,23,23
+796,Sun Feb 6 2022,15:30,Brooklyn Nets,104,Denver Nuggets,124,0,18241.0,Ball Arena,Denver Nuggets,True,20,20
+810,Tue Feb 8 2022,19:30,Boston Celtics,126,Brooklyn Nets,91,0,17732.0,Barclays Center,Boston Celtics,False,-35,35
+826,Thu Feb 10 2022,19:30,Brooklyn Nets,112,Washington Wizards,113,0,15204.0,Capital One Arena,Washington Wizards,True,1,1
+845,Sat Feb 12 2022,20:00,Brooklyn Nets,111,Miami Heat,115,0,19600.0,FTX Arena,Miami Heat,True,4,4
+852,Mon Feb 14 2022,19:30,Sacramento Kings,85,Brooklyn Nets,109,0,16873.0,Barclays Center,Brooklyn Nets,True,24,24
+870,Wed Feb 16 2022,19:30,Brooklyn Nets,111,New York Knicks,106,0,18916.0,Madison Square Garden (IV),Brooklyn Nets,False,-5,5
+879,Thu Feb 17 2022,19:30,Washington Wizards,117,Brooklyn Nets,103,0,17477.0,Barclays Center,Washington Wizards,False,-14,14
+884,Thu Feb 24 2022,19:30,Boston Celtics,129,Brooklyn Nets,106,0,17986.0,Barclays Center,Boston Celtics,False,-23,23
+904,Sat Feb 26 2022,20:30,Brooklyn Nets,126,Milwaukee Bucks,123,0,17341.0,Fiserv Forum,Brooklyn Nets,False,-3,3
+916,Mon Feb 28 2022,19:30,Toronto Raptors,133,Brooklyn Nets,97,0,17112.0,Barclays Center,Toronto Raptors,False,-36,36
+923,Tue Mar 1 2022,19:30,Brooklyn Nets,108,Toronto Raptors,109,0,18903.0,Scotiabank Arena,Toronto Raptors,True,1,1
+937,Thu Mar 3 2022,19:30,Miami Heat,113,Brooklyn Nets,107,0,17732.0,Barclays Center,Miami Heat,False,-6,6
+957,Sun Mar 6 2022,13:00,Brooklyn Nets,120,Boston Celtics,126,0,19156.0,TD Garden,Boston Celtics,True,6,6
+973,Tue Mar 8 2022,19:00,Brooklyn Nets,132,Charlotte Hornets,121,0,17230.0,Spectrum Center,Brooklyn Nets,False,-11,11
+991,Thu Mar 10 2022,19:30,Brooklyn Nets,129,Philadelphia 76ers,100,0,21408.0,Wells Fargo Center,Brooklyn Nets,False,-29,29
+1010,Sun Mar 13 2022,13:00,New York Knicks,107,Brooklyn Nets,110,0,18057.0,Barclays Center,Brooklyn Nets,True,3,3
+1028,Tue Mar 15 2022,19:00,Brooklyn Nets,150,Orlando Magic,108,0,15282.0,Amway Center,Brooklyn Nets,False,-42,42
+1034,Wed Mar 16 2022,19:30,Dallas Mavericks,113,Brooklyn Nets,111,0,17981.0,Barclays Center,Dallas Mavericks,False,-2,2
+1046,Fri Mar 18 2022,19:30,Portland Trail Blazers,123,Brooklyn Nets,128,0,17732.0,Barclays Center,Brooklyn Nets,True,5,5
+1072,Mon Mar 21 2022,19:30,Utah Jazz,106,Brooklyn Nets,114,0,17887.0,Barclays Center,Brooklyn Nets,True,8,8
+1086,Wed Mar 23 2022,19:30,Brooklyn Nets,120,Memphis Grizzlies,132,0,17794.0,FedEx Forum,Memphis Grizzlies,True,12,12
+1110,Sat Mar 26 2022,20:00,Brooklyn Nets,110,Miami Heat,95,0,19600.0,FTX Arena,Brooklyn Nets,False,-15,15
+1118,Sun Mar 27 2022,19:30,Charlotte Hornets,119,Brooklyn Nets,110,0,18166.0,Barclays Center,Charlotte Hornets,False,-9,9
+1131,Tue Mar 29 2022,19:30,Detroit Pistons,123,Brooklyn Nets,130,0,17559.0,Barclays Center,Brooklyn Nets,True,7,7
+1147,Thu Mar 31 2022,19:30,Milwaukee Bucks,120,Brooklyn Nets,119,1,17917.0,Barclays Center,Milwaukee Bucks,False,-1,1
+1162,Sat Apr 2 2022,19:30,Brooklyn Nets,115,Atlanta Hawks,122,0,18126.0,State Farm Arena,Atlanta Hawks,True,7,7
+1179,Tue Apr 5 2022,19:30,Houston Rockets,105,Brooklyn Nets,118,0,17768.0,Barclays Center,Brooklyn Nets,True,13,13
+1190,Wed Apr 6 2022,19:30,Brooklyn Nets,110,New York Knicks,98,0,19812.0,Madison Square Garden (IV),Brooklyn Nets,False,-12,12
+1204,Fri Apr 8 2022,19:30,Cleveland Cavaliers,107,Brooklyn Nets,118,0,18169.0,Barclays Center,Brooklyn Nets,True,11,11
+1215,Sun Apr 10 2022,15:30,Indiana Pacers,126,Brooklyn Nets,134,0,17967.0,Barclays Center,Brooklyn Nets,True,8,8
+1230,Tue Apr 12 2022,19:00,Cleveland Cavaliers,108,Brooklyn Nets,115,0,17732.0,Barclays Center,Brooklyn Nets,True,7,7
+1241,Sun Apr 17 2022,15:30,Brooklyn Nets,114,Boston Celtics,115,0,19156.0,TD Garden,Boston Celtics,True,1,1
+1250,Wed Apr 20 2022,19:00,Brooklyn Nets,107,Boston Celtics,114,0,19156.0,TD Garden,Boston Celtics,True,7,7
+1261,Sat Apr 23 2022,19:30,Boston Celtics,109,Brooklyn Nets,103,0,18175.0,Barclays Center,Boston Celtics,False,-6,6
+1267,Mon Apr 25 2022,19:00,Boston Celtics,116,Brooklyn Nets,112,0,18099.0,Barclays Center,Boston Celtics,False,-4,4

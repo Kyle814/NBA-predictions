@@ -1,0 +1,88 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+12,Wed Oct 20 2021,22:00,Denver Nuggets,110,Phoenix Suns,98,0,16074.0,Phoenix Suns Arena,Denver Nuggets,False,-12,12
+23,Fri Oct 22 2021,21:00,San Antonio Spurs,96,Denver Nuggets,102,0,19520.0,Ball Arena,Denver Nuggets,True,6,6
+47,Mon Oct 25 2021,21:00,Cleveland Cavaliers,99,Denver Nuggets,87,0,14221.0,Ball Arena,Cleveland Cavaliers,False,-12,12
+53,Tue Oct 26 2021,22:00,Denver Nuggets,110,Utah Jazz,122,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,12,12
+74,Fri Oct 29 2021,22:00,Dallas Mavericks,75,Denver Nuggets,106,0,18315.0,Ball Arena,Denver Nuggets,True,31,31
+86,Sat Oct 30 2021,21:00,Denver Nuggets,93,Minnesota Timberwolves,91,0,17136.0,Target Center,Denver Nuggets,False,-2,2
+99,Mon Nov 1 2021,20:00,Denver Nuggets,97,Memphis Grizzlies,106,0,12683.0,FedEx Forum,Memphis Grizzlies,True,9,9
+113,Wed Nov 3 2021,20:00,Denver Nuggets,106,Memphis Grizzlies,108,0,12977.0,FedEx Forum,Memphis Grizzlies,True,2,2
+132,Sat Nov 6 2021,17:00,Houston Rockets,94,Denver Nuggets,95,0,16046.0,Ball Arena,Denver Nuggets,True,1,1
+150,Mon Nov 8 2021,21:00,Miami Heat,96,Denver Nuggets,113,0,15577.0,Ball Arena,Denver Nuggets,True,17,17
+166,Wed Nov 10 2021,21:00,Indiana Pacers,98,Denver Nuggets,101,0,15232.0,Ball Arena,Denver Nuggets,True,3,3
+181,Fri Nov 12 2021,21:00,Atlanta Hawks,96,Denver Nuggets,105,0,16849.0,Ball Arena,Denver Nuggets,True,9,9
+196,Sun Nov 14 2021,20:00,Portland Trail Blazers,95,Denver Nuggets,124,0,14583.0,Ball Arena,Denver Nuggets,True,29,29
+203,Mon Nov 15 2021,20:00,Denver Nuggets,101,Dallas Mavericks,111,0,19797.0,American Airlines Center,Dallas Mavericks,True,10,10
+227,Thu Nov 18 2021,21:00,Philadelphia 76ers,103,Denver Nuggets,89,0,14547.0,Ball Arena,Philadelphia 76ers,False,-14,14
+235,Fri Nov 19 2021,21:00,Chicago Bulls,114,Denver Nuggets,108,0,19520.0,Ball Arena,Chicago Bulls,False,-6,6
+250,Sun Nov 21 2021,20:00,Denver Nuggets,97,Phoenix Suns,126,0,16072.0,Phoenix Suns Arena,Phoenix Suns,True,29,29
+264,Tue Nov 23 2021,22:00,Denver Nuggets,100,Portland Trail Blazers,119,0,17052.0,Moda Center,Portland Trail Blazers,True,19,19
+287,Fri Nov 26 2021,21:00,Milwaukee Bucks,120,Denver Nuggets,109,0,19520.0,Ball Arena,Milwaukee Bucks,False,-11,11
+305,Mon Nov 29 2021,19:30,Denver Nuggets,120,Miami Heat,111,0,19600.0,FTX Arena,Denver Nuggets,False,-9,9
+319,Wed Dec 1 2021,19:00,Denver Nuggets,103,Orlando Magic,108,0,14191.0,Amway Center,Orlando Magic,True,5,5
+341,Sat Dec 4 2021,13:00,Denver Nuggets,113,New York Knicks,99,0,18272.0,Madison Square Garden (IV),Denver Nuggets,False,-14,14
+356,Mon Dec 6 2021,20:00,Denver Nuggets,97,Chicago Bulls,109,0,21236.0,United Center,Chicago Bulls,True,12,12
+374,Wed Dec 8 2021,20:00,Denver Nuggets,120,New Orleans Pelicans,114,1,15035.0,Smoothie King Center,Denver Nuggets,False,-6,6
+380,Thu Dec 9 2021,20:30,Denver Nuggets,111,San Antonio Spurs,123,0,12855.0,AT&T Center,San Antonio Spurs,True,12,12
+396,Sat Dec 11 2021,20:30,Denver Nuggets,127,San Antonio Spurs,112,0,14607.0,AT&T Center,Denver Nuggets,False,-15,15
+410,Mon Dec 13 2021,21:00,Washington Wizards,107,Denver Nuggets,113,0,14632.0,Ball Arena,Denver Nuggets,True,6,6
+422,Wed Dec 15 2021,21:00,Minnesota Timberwolves,124,Denver Nuggets,107,0,15365.0,Ball Arena,Minnesota Timberwolves,False,-17,17
+431,Fri Dec 17 2021,19:30,Denver Nuggets,133,Atlanta Hawks,115,0,16114.0,State Farm Arena,Denver Nuggets,False,-18,18
+465,Wed Dec 22 2021,20:00,Denver Nuggets,94,Oklahoma City Thunder,108,0,14932.0,Paycom Center,Oklahoma City Thunder,True,14,14
+473,Thu Dec 23 2021,21:00,Charlotte Hornets,115,Denver Nuggets,107,0,17003.0,Ball Arena,Charlotte Hornets,False,-8,8
+490,Sun Dec 26 2021,21:00,Denver Nuggets,103,Los Angeles Clippers,100,0,17759.0,Crypto.com Arena,Denver Nuggets,False,-3,3
+504,Tue Dec 28 2021,22:00,Denver Nuggets,89,Golden State Warriors,86,0,18064.0,Chase Center,Denver Nuggets,False,-3,3
+531,Sat Jan 1 2022,20:00,Denver Nuggets,124,Houston Rockets,111,0,18055.0,Toyota Center,Denver Nuggets,False,-13,13
+546,Mon Jan 3 2022,20:30,Denver Nuggets,89,Dallas Mavericks,103,0,19767.0,American Airlines Center,Dallas Mavericks,True,14,14
+563,Wed Jan 5 2022,22:00,Utah Jazz,115,Denver Nuggets,109,0,14056.0,Ball Arena,Utah Jazz,False,-6,6
+576,Fri Jan 7 2022,21:00,Sacramento Kings,111,Denver Nuggets,121,0,15966.0,Ball Arena,Denver Nuggets,True,10,10
+590,Sun Jan 9 2022,19:00,Denver Nuggets,99,Oklahoma City Thunder,95,0,14772.0,Paycom Center,Denver Nuggets,False,-4,4
+607,Tue Jan 11 2022,22:30,Denver Nuggets,85,Los Angeles Clippers,87,0,15077.0,Crypto.com Arena,Los Angeles Clippers,True,2,2
+621,Thu Jan 13 2022,22:00,Portland Trail Blazers,108,Denver Nuggets,140,0,14972.0,Ball Arena,Denver Nuggets,True,32,32
+639,Sat Jan 15 2022,21:00,Los Angeles Lakers,96,Denver Nuggets,133,0,19520.0,Ball Arena,Denver Nuggets,True,37,37
+643,Sun Jan 16 2022,20:00,Utah Jazz,125,Denver Nuggets,102,0,15647.0,Ball Arena,Utah Jazz,False,-23,23
+669,Wed Jan 19 2022,22:00,Los Angeles Clippers,128,Denver Nuggets,130,1,14547.0,Ball Arena,Denver Nuggets,True,2,2
+683,Fri Jan 21 2022,21:00,Memphis Grizzlies,122,Denver Nuggets,118,0,17009.0,Ball Arena,Memphis Grizzlies,False,-4,4
+697,Sun Jan 23 2022,20:00,Detroit Pistons,111,Denver Nuggets,117,0,14060.0,Ball Arena,Denver Nuggets,True,6,6
+704,Tue Jan 25 2022,19:00,Denver Nuggets,110,Detroit Pistons,105,0,16023.0,Little Caesars Arena,Denver Nuggets,False,-5,5
+718,Wed Jan 26 2022,20:00,Denver Nuggets,124,Brooklyn Nets,118,0,18011.0,Barclays Center,Denver Nuggets,False,-6,6
+731,Fri Jan 28 2022,20:00,Denver Nuggets,116,New Orleans Pelicans,105,0,15254.0,Smoothie King Center,Denver Nuggets,False,-11,11
+746,Sun Jan 30 2022,19:00,Denver Nuggets,136,Milwaukee Bucks,100,0,17341.0,Fiserv Forum,Denver Nuggets,False,-36,36
+762,Tue Feb 1 2022,20:00,Denver Nuggets,115,Minnesota Timberwolves,130,0,15839.0,Target Center,Minnesota Timberwolves,True,15,15
+772,Wed Feb 2 2022,22:00,Denver Nuggets,104,Utah Jazz,108,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,4,4
+785,Fri Feb 4 2022,21:00,New Orleans Pelicans,113,Denver Nuggets,105,0,16152.0,Ball Arena,New Orleans Pelicans,False,-8,8
+796,Sun Feb 6 2022,15:30,Brooklyn Nets,104,Denver Nuggets,124,0,18241.0,Ball Arena,Denver Nuggets,True,20,20
+814,Tue Feb 8 2022,21:00,New York Knicks,115,Denver Nuggets,132,0,15093.0,Ball Arena,Denver Nuggets,True,17,17
+835,Fri Feb 11 2022,19:30,Denver Nuggets,102,Boston Celtics,108,0,19156.0,TD Garden,Boston Celtics,True,6,6
+843,Sat Feb 12 2022,19:30,Denver Nuggets,110,Toronto Raptors,109,0,0.0,Scotiabank Arena,Denver Nuggets,False,-1,1
+857,Mon Feb 14 2022,21:00,Orlando Magic,111,Denver Nuggets,121,0,15025.0,Ball Arena,Denver Nuggets,True,10,10
+876,Wed Feb 16 2022,22:00,Denver Nuggets,117,Golden State Warriors,116,0,18064.0,Chase Center,Denver Nuggets,False,-1,1
+889,Thu Feb 24 2022,22:00,Denver Nuggets,128,Sacramento Kings,110,0,15855.0,Golden 1 Center,Denver Nuggets,False,-18,18
+905,Sat Feb 26 2022,21:00,Sacramento Kings,110,Denver Nuggets,115,0,19520.0,Ball Arena,Denver Nuggets,True,5,5
+912,Sun Feb 27 2022,21:00,Denver Nuggets,124,Portland Trail Blazers,92,0,17771.0,Moda Center,Denver Nuggets,False,-32,32
+933,Wed Mar 2 2022,21:00,Oklahoma City Thunder,119,Denver Nuggets,107,0,15167.0,Ball Arena,Oklahoma City Thunder,False,-12,12
+949,Fri Mar 4 2022,21:00,Houston Rockets,101,Denver Nuggets,116,0,16254.0,Ball Arena,Denver Nuggets,True,15,15
+963,Sun Mar 6 2022,20:00,New Orleans Pelicans,130,Denver Nuggets,138,1,14962.0,Ball Arena,Denver Nuggets,True,8,8
+971,Mon Mar 7 2022,21:00,Golden State Warriors,124,Denver Nuggets,131,0,19542.0,Ball Arena,Denver Nuggets,True,7,7
+988,Wed Mar 9 2022,22:00,Denver Nuggets,106,Sacramento Kings,100,0,14697.0,Golden 1 Center,Denver Nuggets,False,-6,6
+992,Thu Mar 10 2022,22:00,Golden State Warriors,113,Denver Nuggets,102,0,19520.0,Ball Arena,Golden State Warriors,False,-11,11
+1007,Sat Mar 12 2022,21:00,Toronto Raptors,127,Denver Nuggets,115,0,18659.0,Ball Arena,Toronto Raptors,False,-12,12
+1020,Mon Mar 14 2022,19:30,Denver Nuggets,114,Philadelphia 76ers,110,0,21444.0,Wells Fargo Center,Denver Nuggets,False,-4,4
+1033,Wed Mar 16 2022,19:00,Denver Nuggets,127,Washington Wizards,109,0,15326.0,Capital One Arena,Denver Nuggets,False,-18,18
+1047,Fri Mar 18 2022,19:30,Denver Nuggets,116,Cleveland Cavaliers,119,1,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,3,3
+1066,Sun Mar 20 2022,20:00,Boston Celtics,124,Denver Nuggets,104,0,19602.0,Ball Arena,Boston Celtics,False,-20,20
+1081,Tue Mar 22 2022,22:00,Los Angeles Clippers,115,Denver Nuggets,127,0,16089.0,Ball Arena,Denver Nuggets,True,12,12
+1097,Thu Mar 24 2022,21:00,Phoenix Suns,140,Denver Nuggets,130,0,19520.0,Ball Arena,Phoenix Suns,False,-10,10
+1111,Sat Mar 26 2022,21:00,Oklahoma City Thunder,107,Denver Nuggets,113,0,19520.0,Ball Arena,Denver Nuggets,True,6,6
+1120,Mon Mar 28 2022,19:00,Denver Nuggets,113,Charlotte Hornets,109,0,17614.0,Spectrum Center,Denver Nuggets,False,-4,4
+1135,Wed Mar 30 2022,19:00,Denver Nuggets,125,Indiana Pacers,118,0,15036.0,Gainbridge Fieldhouse,Denver Nuggets,False,-7,7
+1158,Fri Apr 1 2022,21:00,Minnesota Timberwolves,136,Denver Nuggets,130,0,19612.0,Ball Arena,Minnesota Timberwolves,False,-6,6
+1167,Sun Apr 3 2022,15:30,Denver Nuggets,129,Los Angeles Lakers,118,0,18997.0,Crypto.com Arena,Denver Nuggets,False,-11,11
+1185,Tue Apr 5 2022,21:00,San Antonio Spurs,116,Denver Nuggets,97,0,17037.0,Ball Arena,San Antonio Spurs,False,-19,19
+1200,Thu Apr 7 2022,21:00,Memphis Grizzlies,109,Denver Nuggets,122,0,19520.0,Ball Arena,Denver Nuggets,True,13,13
+1225,Sun Apr 10 2022,21:30,Los Angeles Lakers,146,Denver Nuggets,141,1,19520.0,Ball Arena,Los Angeles Lakers,False,-5,5
+1239,Sat Apr 16 2022,20:30,Denver Nuggets,107,Golden State Warriors,123,0,18064.0,Chase Center,Golden State Warriors,True,16,16
+1246,Mon Apr 18 2022,22:00,Denver Nuggets,106,Golden State Warriors,126,0,18064.0,Chase Center,Golden State Warriors,True,20,20
+1255,Thu Apr 21 2022,22:00,Golden State Warriors,118,Denver Nuggets,113,0,19627.0,Ball Arena,Golden State Warriors,False,-5,5
+1264,Sun Apr 24 2022,15:30,Golden State Warriors,121,Denver Nuggets,126,0,19628.0,Ball Arena,Denver Nuggets,True,5,5
+1274,Wed Apr 27 2022,22:00,Denver Nuggets,98,Golden State Warriors,102,0,18064.0,Chase Center,Golden State Warriors,True,4,4

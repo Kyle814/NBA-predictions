@@ -1,0 +1,101 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+13,Thu Oct 21 2021,19:30,Dallas Mavericks,87,Atlanta Hawks,113,0,17162.0,State Farm Arena,Atlanta Hawks,True,26,26
+28,Sat Oct 23 2021,19:30,Dallas Mavericks,103,Toronto Raptors,95,0,19800.0,Scotiabank Arena,Dallas Mavericks,False,-8,8
+52,Tue Oct 26 2021,20:30,Houston Rockets,106,Dallas Mavericks,116,0,19337.0,American Airlines Center,Dallas Mavericks,True,10,10
+68,Thu Oct 28 2021,20:30,San Antonio Spurs,99,Dallas Mavericks,104,0,19228.0,American Airlines Center,Dallas Mavericks,True,5,5
+74,Fri Oct 29 2021,22:00,Dallas Mavericks,75,Denver Nuggets,106,0,18315.0,Ball Arena,Denver Nuggets,True,31,31
+88,Sun Oct 31 2021,15:30,Sacramento Kings,99,Dallas Mavericks,105,0,19231.0,American Airlines Center,Dallas Mavericks,True,6,6
+103,Tue Nov 2 2021,19:30,Miami Heat,125,Dallas Mavericks,110,0,19255.0,American Airlines Center,Miami Heat,False,-15,15
+115,Wed Nov 3 2021,20:30,Dallas Mavericks,109,San Antonio Spurs,108,0,16356.0,AT&T Center,Dallas Mavericks,False,-1,1
+135,Sat Nov 6 2021,20:30,Boston Celtics,104,Dallas Mavericks,107,0,20052.0,American Airlines Center,Dallas Mavericks,True,3,3
+149,Mon Nov 8 2021,20:30,New Orleans Pelicans,92,Dallas Mavericks,108,0,19231.0,American Airlines Center,Dallas Mavericks,True,16,16
+162,Wed Nov 10 2021,20:00,Dallas Mavericks,107,Chicago Bulls,117,0,20910.0,United Center,Chicago Bulls,True,10,10
+180,Fri Nov 12 2021,20:30,Dallas Mavericks,123,San Antonio Spurs,109,0,13425.0,AT&T Center,Dallas Mavericks,False,-14,14
+203,Mon Nov 15 2021,20:00,Denver Nuggets,101,Dallas Mavericks,111,0,19797.0,American Airlines Center,Dallas Mavericks,True,10,10
+221,Wed Nov 17 2021,22:00,Dallas Mavericks,98,Phoenix Suns,105,0,14838.0,Phoenix Suns Arena,Phoenix Suns,True,7,7
+236,Fri Nov 19 2021,22:00,Dallas Mavericks,104,Phoenix Suns,112,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,8,8
+247,Sun Nov 21 2021,15:30,Dallas Mavericks,91,Los Angeles Clippers,97,0,17149.0,Crypto.com Arena,Los Angeles Clippers,True,6,6
+265,Tue Nov 23 2021,22:30,Dallas Mavericks,112,Los Angeles Clippers,104,1,17067.0,Crypto.com Arena,Dallas Mavericks,False,-8,8
+297,Sat Nov 27 2021,20:30,Washington Wizards,120,Dallas Mavericks,114,0,20223.0,American Airlines Center,Washington Wizards,False,-6,6
+309,Mon Nov 29 2021,20:30,Cleveland Cavaliers,114,Dallas Mavericks,96,0,19229.0,American Airlines Center,Cleveland Cavaliers,False,-18,18
+324,Wed Dec 1 2021,20:00,Dallas Mavericks,139,New Orleans Pelicans,107,0,15558.0,Smoothie King Center,Dallas Mavericks,False,-32,32
+337,Fri Dec 3 2021,20:30,New Orleans Pelicans,107,Dallas Mavericks,91,0,19218.0,American Airlines Center,New Orleans Pelicans,False,-16,16
+344,Sat Dec 4 2021,20:30,Memphis Grizzlies,97,Dallas Mavericks,90,0,19396.0,American Airlines Center,Memphis Grizzlies,False,-7,7
+362,Tue Dec 7 2021,19:30,Brooklyn Nets,102,Dallas Mavericks,99,0,19559.0,American Airlines Center,Brooklyn Nets,False,-3,3
+372,Wed Dec 8 2021,20:00,Dallas Mavericks,104,Memphis Grizzlies,96,0,14025.0,FedEx Forum,Dallas Mavericks,False,-8,8
+382,Fri Dec 10 2021,19:00,Dallas Mavericks,93,Indiana Pacers,106,0,12618.0,Gainbridge Fieldhouse,Indiana Pacers,True,13,13
+399,Sun Dec 12 2021,19:00,Dallas Mavericks,103,Oklahoma City Thunder,84,0,15747.0,Paycom Center,Dallas Mavericks,False,-19,19
+409,Mon Dec 13 2021,20:30,Charlotte Hornets,96,Dallas Mavericks,120,0,19213.0,American Airlines Center,Dallas Mavericks,True,24,24
+418,Wed Dec 15 2021,19:30,Los Angeles Lakers,107,Dallas Mavericks,104,1,20270.0,American Airlines Center,Los Angeles Lakers,False,-3,3
+449,Sun Dec 19 2021,20:00,Dallas Mavericks,105,Minnesota Timberwolves,111,0,16127.0,Target Center,Minnesota Timberwolves,True,6,6
+460,Tue Dec 21 2021,20:30,Minnesota Timberwolves,102,Dallas Mavericks,114,0,20056.0,American Airlines Center,Dallas Mavericks,True,12,12
+472,Thu Dec 23 2021,20:30,Milwaukee Bucks,102,Dallas Mavericks,95,0,19654.0,American Airlines Center,Milwaukee Bucks,False,-7,7
+482,Sat Dec 25 2021,22:30,Dallas Mavericks,116,Utah Jazz,120,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,4,4
+496,Mon Dec 27 2021,22:00,Dallas Mavericks,132,Portland Trail Blazers,117,0,18430.0,Moda Center,Dallas Mavericks,False,-15,15
+513,Wed Dec 29 2021,22:30,Dallas Mavericks,94,Sacramento Kings,95,0,16071.0,Golden 1 Center,Sacramento Kings,True,1,1
+519,Fri Dec 31 2021,18:00,Dallas Mavericks,112,Sacramento Kings,96,0,15833.0,Golden 1 Center,Dallas Mavericks,False,-16,16
+538,Sun Jan 2 2022,19:00,Dallas Mavericks,95,Oklahoma City Thunder,86,0,14751.0,Paycom Center,Dallas Mavericks,False,-9,9
+546,Mon Jan 3 2022,20:30,Denver Nuggets,89,Dallas Mavericks,103,0,19767.0,American Airlines Center,Dallas Mavericks,True,14,14
+559,Wed Jan 5 2022,19:30,Golden State Warriors,82,Dallas Mavericks,99,0,20441.0,American Airlines Center,Dallas Mavericks,True,17,17
+574,Fri Jan 7 2022,20:00,Dallas Mavericks,130,Houston Rockets,106,0,15238.0,Toyota Center,Dallas Mavericks,False,-24,24
+591,Sun Jan 9 2022,19:30,Chicago Bulls,99,Dallas Mavericks,113,0,20041.0,American Airlines Center,Dallas Mavericks,True,14,14
+612,Wed Jan 12 2022,19:30,Dallas Mavericks,85,New York Knicks,108,0,18215.0,Madison Square Garden (IV),New York Knicks,True,23,23
+629,Fri Jan 14 2022,22:00,Dallas Mavericks,112,Memphis Grizzlies,85,0,16712.0,FedEx Forum,Dallas Mavericks,False,-27,27
+640,Sat Jan 15 2022,21:30,Orlando Magic,92,Dallas Mavericks,108,0,19816.0,American Airlines Center,Dallas Mavericks,True,16,16
+654,Mon Jan 17 2022,20:30,Oklahoma City Thunder,102,Dallas Mavericks,104,0,19266.0,American Airlines Center,Dallas Mavericks,True,2,2
+666,Wed Jan 19 2022,20:30,Toronto Raptors,98,Dallas Mavericks,102,0,19218.0,American Airlines Center,Dallas Mavericks,True,4,4
+672,Thu Jan 20 2022,19:30,Phoenix Suns,109,Dallas Mavericks,101,0,18306.0,American Airlines Center,Phoenix Suns,False,-8,8
+696,Sun Jan 23 2022,19:30,Memphis Grizzlies,91,Dallas Mavericks,104,0,19701.0,American Airlines Center,Dallas Mavericks,True,13,13
+711,Tue Jan 25 2022,22:00,Dallas Mavericks,92,Golden State Warriors,130,0,18064.0,Chase Center,Golden State Warriors,True,38,38
+721,Wed Jan 26 2022,22:00,Dallas Mavericks,132,Portland Trail Blazers,112,0,16334.0,Moda Center,Dallas Mavericks,False,-20,20
+736,Sat Jan 29 2022,19:00,Indiana Pacers,105,Dallas Mavericks,132,0,19831.0,American Airlines Center,Dallas Mavericks,True,27,27
+747,Sun Jan 30 2022,19:00,Dallas Mavericks,108,Orlando Magic,110,0,13376.0,Amway Center,Orlando Magic,True,2,2
+770,Wed Feb 2 2022,20:30,Oklahoma City Thunder,120,Dallas Mavericks,114,1,19200.0,American Airlines Center,Oklahoma City Thunder,False,-6,6
+787,Fri Feb 4 2022,22:00,Philadelphia 76ers,98,Dallas Mavericks,107,0,19200.0,American Airlines Center,Dallas Mavericks,True,9,9
+799,Sun Feb 6 2022,18:00,Atlanta Hawks,94,Dallas Mavericks,103,0,19887.0,American Airlines Center,Dallas Mavericks,True,9,9
+813,Tue Feb 8 2022,20:30,Detroit Pistons,86,Dallas Mavericks,116,0,19200.0,American Airlines Center,Dallas Mavericks,True,30,30
+828,Thu Feb 10 2022,20:30,Los Angeles Clippers,105,Dallas Mavericks,112,0,19532.0,American Airlines Center,Dallas Mavericks,True,7,7
+846,Sat Feb 12 2022,20:30,Los Angeles Clippers,99,Dallas Mavericks,97,0,20028.0,American Airlines Center,Los Angeles Clippers,False,-2,2
+861,Tue Feb 15 2022,19:30,Dallas Mavericks,107,Miami Heat,99,0,19600.0,FTX Arena,Dallas Mavericks,False,-8,8
+880,Thu Feb 17 2022,20:00,Dallas Mavericks,125,New Orleans Pelicans,118,0,15906.0,Smoothie King Center,Dallas Mavericks,False,-7,7
+897,Fri Feb 25 2022,21:00,Dallas Mavericks,109,Utah Jazz,114,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,5,5
+911,Sun Feb 27 2022,19:30,Dallas Mavericks,107,Golden State Warriors,101,0,18064.0,Chase Center,Dallas Mavericks,False,-6,6
+926,Tue Mar 1 2022,22:00,Dallas Mavericks,109,Los Angeles Lakers,104,0,17857.0,Crypto.com Arena,Dallas Mavericks,False,-5,5
+939,Thu Mar 3 2022,20:30,Golden State Warriors,113,Dallas Mavericks,122,0,20229.0,American Airlines Center,Dallas Mavericks,True,9,9
+951,Sat Mar 5 2022,17:00,Sacramento Kings,113,Dallas Mavericks,114,0,20060.0,American Airlines Center,Dallas Mavericks,True,1,1
+969,Mon Mar 7 2022,20:30,Utah Jazz,103,Dallas Mavericks,111,0,20077.0,American Airlines Center,Dallas Mavericks,True,8,8
+986,Wed Mar 9 2022,20:30,New York Knicks,107,Dallas Mavericks,77,0,20182.0,American Airlines Center,New York Knicks,False,-30,30
+996,Fri Mar 11 2022,20:00,Dallas Mavericks,113,Houston Rockets,100,0,15060.0,Toyota Center,Dallas Mavericks,False,-13,13
+1012,Sun Mar 13 2022,15:30,Dallas Mavericks,95,Boston Celtics,92,0,19156.0,TD Garden,Dallas Mavericks,False,-3,3
+1034,Wed Mar 16 2022,19:30,Dallas Mavericks,113,Brooklyn Nets,111,0,17981.0,Barclays Center,Dallas Mavericks,False,-2,2
+1044,Fri Mar 18 2022,19:00,Dallas Mavericks,101,Philadelphia 76ers,111,0,21428.0,Wells Fargo Center,Philadelphia 76ers,True,10,10
+1057,Sat Mar 19 2022,19:00,Dallas Mavericks,108,Charlotte Hornets,129,0,19279.0,Spectrum Center,Charlotte Hornets,True,21,21
+1077,Mon Mar 21 2022,20:30,Minnesota Timberwolves,108,Dallas Mavericks,110,0,20077.0,American Airlines Center,Dallas Mavericks,True,2,2
+1090,Wed Mar 23 2022,20:30,Houston Rockets,91,Dallas Mavericks,110,0,20026.0,American Airlines Center,Dallas Mavericks,True,19,19
+1102,Fri Mar 25 2022,20:00,Dallas Mavericks,95,Minnesota Timberwolves,116,0,17136.0,Target Center,Minnesota Timberwolves,True,21,21
+1119,Sun Mar 27 2022,19:30,Utah Jazz,100,Dallas Mavericks,114,0,20177.0,American Airlines Center,Dallas Mavericks,True,14,14
+1132,Tue Mar 29 2022,19:30,Los Angeles Lakers,110,Dallas Mavericks,128,0,20382.0,American Airlines Center,Dallas Mavericks,True,18,18
+1134,Wed Mar 30 2022,19:00,Dallas Mavericks,120,Cleveland Cavaliers,112,0,19432.0,Rocket Mortgage Fieldhouse,Dallas Mavericks,False,-8,8
+1151,Fri Apr 1 2022,19:00,Dallas Mavericks,103,Washington Wizards,135,0,17745.0,Capital One Arena,Washington Wizards,True,32,32
+1166,Sun Apr 3 2022,13:00,Dallas Mavericks,118,Milwaukee Bucks,112,0,17902.0,Fiserv Forum,Dallas Mavericks,False,-6,6
+1189,Wed Apr 6 2022,19:00,Dallas Mavericks,131,Detroit Pistons,113,0,18422.0,Little Caesars Arena,Dallas Mavericks,False,-18,18
+1208,Fri Apr 8 2022,20:30,Portland Trail Blazers,78,Dallas Mavericks,128,0,20174.0,American Airlines Center,Dallas Mavericks,True,50,50
+1224,Sun Apr 10 2022,21:30,San Antonio Spurs,120,Dallas Mavericks,130,0,20270.0,American Airlines Center,Dallas Mavericks,True,10,10
+1236,Sat Apr 16 2022,13:00,Utah Jazz,99,Dallas Mavericks,93,0,20013.0,American Airlines Center,Utah Jazz,False,-6,6
+1245,Mon Apr 18 2022,20:30,Utah Jazz,104,Dallas Mavericks,110,0,20113.0,American Airlines Center,Dallas Mavericks,True,6,6
+1254,Thu Apr 21 2022,21:00,Dallas Mavericks,126,Utah Jazz,118,0,18306.0,Vivint Smart Home Arena,Dallas Mavericks,False,-8,8
+1260,Sat Apr 23 2022,16:30,Dallas Mavericks,99,Utah Jazz,100,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,1,1
+1269,Mon Apr 25 2022,21:30,Utah Jazz,77,Dallas Mavericks,102,0,20577.0,American Airlines Center,Dallas Mavericks,True,25,25
+1277,Thu Apr 28 2022,22:00,Dallas Mavericks,98,Utah Jazz,96,0,18306.0,Vivint Smart Home Arena,Dallas Mavericks,False,-2,2
+1282,Mon May 2 2022,22:00,Dallas Mavericks,114,Phoenix Suns,121,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,7,7
+1286,Wed May 4 2022,22:00,Dallas Mavericks,109,Phoenix Suns,129,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,20,20
+1288,Fri May 6 2022,21:30,Phoenix Suns,94,Dallas Mavericks,103,0,20777.0,American Airlines Center,Dallas Mavericks,True,9,9
+1291,Sun May 8 2022,15:30,Phoenix Suns,101,Dallas Mavericks,111,0,20610.0,American Airlines Center,Dallas Mavericks,True,10,10
+1296,Tue May 10 2022,22:00,Dallas Mavericks,80,Phoenix Suns,110,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,30,30
+1300,Thu May 12 2022,21:30,Phoenix Suns,86,Dallas Mavericks,113,0,20777.0,American Airlines Center,Dallas Mavericks,True,27,27
+1304,Sun May 15 2022,20:00,Dallas Mavericks,123,Phoenix Suns,90,0,17071.0,Phoenix Suns Arena,Dallas Mavericks,False,-33,33
+1306,Wed May 18 2022,21:00,Dallas Mavericks,87,Golden State Warriors,112,0,18064.0,Chase Center,Golden State Warriors,True,25,25
+1308,Fri May 20 2022,21:00,Dallas Mavericks,117,Golden State Warriors,126,0,18064.0,Chase Center,Golden State Warriors,True,9,9
+1310,Sun May 22 2022,21:00,Golden State Warriors,109,Dallas Mavericks,100,0,20813.0,American Airlines Center,Golden State Warriors,False,-9,9
+1312,Tue May 24 2022,21:00,Golden State Warriors,109,Dallas Mavericks,119,0,20810.0,American Airlines Center,Dallas Mavericks,True,10,10
+1314,Thu May 26 2022,21:00,Dallas Mavericks,110,Golden State Warriors,120,0,18064.0,Chase Center,Golden State Warriors,True,10,10
