@@ -1,0 +1,95 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+8,Wed Oct 20 2021,20:00,Philadelphia 76ers,117,New Orleans Pelicans,97,0,12845.0,Smoothie King Center,Philadelphia 76ers,False,-20,20
+20,Fri Oct 22 2021,19:30,Brooklyn Nets,114,Philadelphia 76ers,109,0,20367.0,Wells Fargo Center,Brooklyn Nets,False,-5,5
+37,Sun Oct 24 2021,19:00,Philadelphia 76ers,115,Oklahoma City Thunder,103,0,14256.0,Paycom Center,Philadelphia 76ers,False,-12,12
+49,Tue Oct 26 2021,19:30,Philadelphia 76ers,99,New York Knicks,112,0,15218.0,Madison Square Garden (IV),New York Knicks,True,13,13
+65,Thu Oct 28 2021,19:00,Detroit Pistons,102,Philadelphia 76ers,110,0,20017.0,Wells Fargo Center,Philadelphia 76ers,True,8,8
+81,Sat Oct 30 2021,19:30,Atlanta Hawks,94,Philadelphia 76ers,122,0,20031.0,Wells Fargo Center,Philadelphia 76ers,True,28,28
+95,Mon Nov 1 2021,19:00,Portland Trail Blazers,103,Philadelphia 76ers,113,0,20115.0,Wells Fargo Center,Philadelphia 76ers,True,10,10
+110,Wed Nov 3 2021,19:00,Chicago Bulls,98,Philadelphia 76ers,103,0,20438.0,Wells Fargo Center,Philadelphia 76ers,True,5,5
+118,Thu Nov 4 2021,19:00,Philadelphia 76ers,109,Detroit Pistons,98,0,8702.0,Little Caesars Arena,Philadelphia 76ers,False,-11,11
+134,Sat Nov 6 2021,20:00,Philadelphia 76ers,114,Chicago Bulls,105,0,20936.0,United Center,Philadelphia 76ers,False,-9,9
+146,Mon Nov 8 2021,19:00,New York Knicks,103,Philadelphia 76ers,96,0,20224.0,Wells Fargo Center,New York Knicks,False,-7,7
+154,Tue Nov 9 2021,19:30,Milwaukee Bucks,118,Philadelphia 76ers,109,0,20029.0,Wells Fargo Center,Milwaukee Bucks,False,-9,9
+170,Thu Nov 11 2021,19:00,Toronto Raptors,115,Philadelphia 76ers,109,0,20112.0,Wells Fargo Center,Toronto Raptors,False,-6,6
+185,Sat Nov 13 2021,19:00,Philadelphia 76ers,113,Indiana Pacers,118,0,14483.0,Gainbridge Fieldhouse,Indiana Pacers,True,5,5
+210,Tue Nov 16 2021,22:00,Philadelphia 76ers,85,Utah Jazz,120,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,35,35
+227,Thu Nov 18 2021,21:00,Philadelphia 76ers,103,Denver Nuggets,89,0,14547.0,Ball Arena,Philadelphia 76ers,False,-14,14
+245,Sat Nov 20 2021,22:00,Philadelphia 76ers,111,Portland Trail Blazers,118,0,17027.0,Moda Center,Portland Trail Blazers,True,7,7
+261,Mon Nov 22 2021,22:00,Philadelphia 76ers,102,Sacramento Kings,94,0,13948.0,Golden 1 Center,Philadelphia 76ers,False,-8,8
+277,Wed Nov 24 2021,22:00,Philadelphia 76ers,96,Golden State Warriors,116,0,18064.0,Chase Center,Golden State Warriors,True,20,20
+291,Sat Nov 27 2021,18:00,Minnesota Timberwolves,121,Philadelphia 76ers,120,2,21011.0,Wells Fargo Center,Minnesota Timberwolves,False,-1,1
+304,Mon Nov 29 2021,19:00,Orlando Magic,96,Philadelphia 76ers,101,0,20193.0,Wells Fargo Center,Philadelphia 76ers,True,5,5
+321,Wed Dec 1 2021,19:30,Philadelphia 76ers,87,Boston Celtics,88,0,19156.0,TD Garden,Boston Celtics,True,1,1
+334,Fri Dec 3 2021,19:30,Philadelphia 76ers,98,Atlanta Hawks,96,0,17092.0,State Farm Arena,Philadelphia 76ers,False,-2,2
+352,Mon Dec 6 2021,19:00,Philadelphia 76ers,127,Charlotte Hornets,124,1,14462.0,Spectrum Center,Philadelphia 76ers,False,-3,3
+365,Wed Dec 8 2021,19:00,Philadelphia 76ers,110,Charlotte Hornets,106,0,15709.0,Spectrum Center,Philadelphia 76ers,False,-4,4
+378,Thu Dec 9 2021,19:00,Utah Jazz,118,Philadelphia 76ers,96,0,20272.0,Wells Fargo Center,Utah Jazz,False,-22,22
+395,Sat Dec 11 2021,20:30,Golden State Warriors,93,Philadelphia 76ers,102,0,21016.0,Wells Fargo Center,Philadelphia 76ers,True,9,9
+408,Mon Dec 13 2021,20:00,Philadelphia 76ers,91,Memphis Grizzlies,126,0,13420.0,FedEx Forum,Memphis Grizzlies,True,35,35
+417,Wed Dec 15 2021,19:00,Miami Heat,101,Philadelphia 76ers,96,0,20389.0,Wells Fargo Center,Miami Heat,False,-5,5
+427,Thu Dec 16 2021,19:30,Philadelphia 76ers,105,Brooklyn Nets,114,0,17053.0,Barclays Center,Brooklyn Nets,True,9,9
+451,Mon Dec 20 2021,19:30,Philadelphia 76ers,108,Boston Celtics,103,0,19156.0,TD Garden,Philadelphia 76ers,False,-5,5
+469,Thu Dec 23 2021,19:00,Atlanta Hawks,98,Philadelphia 76ers,96,0,20408.0,Wells Fargo Center,Atlanta Hawks,False,-2,2
+486,Sun Dec 26 2021,18:00,Philadelphia 76ers,117,Washington Wizards,96,0,16767.0,Capital One Arena,Philadelphia 76ers,False,-21,21
+500,Tue Dec 28 2021,19:30,Philadelphia 76ers,114,Toronto Raptors,109,0,6960.0,Scotiabank Arena,Philadelphia 76ers,False,-5,5
+514,Thu Dec 30 2021,19:00,Philadelphia 76ers,110,Brooklyn Nets,102,0,17920.0,Barclays Center,Philadelphia 76ers,False,-8,8
+540,Mon Jan 3 2022,19:00,Houston Rockets,113,Philadelphia 76ers,133,0,20026.0,Wells Fargo Center,Philadelphia 76ers,True,20,20
+556,Wed Jan 5 2022,19:00,Philadelphia 76ers,116,Orlando Magic,106,0,13116.0,Amway Center,Philadelphia 76ers,False,-10,10
+570,Fri Jan 7 2022,19:00,San Antonio Spurs,100,Philadelphia 76ers,119,0,20265.0,Wells Fargo Center,Philadelphia 76ers,True,19,19
+599,Mon Jan 10 2022,20:00,Philadelphia 76ers,111,Houston Rockets,91,0,13593.0,Toyota Center,Philadelphia 76ers,False,-20,20
+609,Wed Jan 12 2022,19:00,Charlotte Hornets,109,Philadelphia 76ers,98,0,20317.0,Wells Fargo Center,Charlotte Hornets,False,-11,11
+625,Fri Jan 14 2022,19:00,Boston Celtics,99,Philadelphia 76ers,111,0,20444.0,Wells Fargo Center,Philadelphia 76ers,True,12,12
+635,Sat Jan 15 2022,20:00,Philadelphia 76ers,109,Miami Heat,98,0,19600.0,FTX Arena,Philadelphia 76ers,False,-11,11
+647,Mon Jan 17 2022,14:00,Philadelphia 76ers,98,Washington Wizards,117,0,14581.0,Capital One Arena,Washington Wizards,True,19,19
+659,Wed Jan 19 2022,19:00,Orlando Magic,110,Philadelphia 76ers,123,0,20081.0,Wells Fargo Center,Philadelphia 76ers,True,13,13
+677,Fri Jan 21 2022,19:00,Los Angeles Clippers,102,Philadelphia 76ers,101,0,20182.0,Wells Fargo Center,Los Angeles Clippers,False,-1,1
+695,Sun Jan 23 2022,19:00,Philadelphia 76ers,115,San Antonio Spurs,109,0,16437.0,AT&T Center,Philadelphia 76ers,False,-6,6
+705,Tue Jan 25 2022,19:00,New Orleans Pelicans,107,Philadelphia 76ers,117,0,20121.0,Wells Fargo Center,Philadelphia 76ers,True,10,10
+723,Thu Jan 27 2022,19:30,Los Angeles Lakers,87,Philadelphia 76ers,105,0,20953.0,Wells Fargo Center,Philadelphia 76ers,True,18,18
+738,Sat Jan 29 2022,19:30,Sacramento Kings,101,Philadelphia 76ers,103,0,20380.0,Wells Fargo Center,Philadelphia 76ers,True,2,2
+752,Mon Jan 31 2022,19:00,Memphis Grizzlies,119,Philadelphia 76ers,122,1,20424.0,Wells Fargo Center,Philadelphia 76ers,True,3,3
+766,Wed Feb 2 2022,19:00,Washington Wizards,106,Philadelphia 76ers,103,0,20089.0,Wells Fargo Center,Washington Wizards,False,-3,3
+787,Fri Feb 4 2022,22:00,Philadelphia 76ers,98,Dallas Mavericks,107,0,19200.0,American Airlines Center,Dallas Mavericks,True,9,9
+795,Sun Feb 6 2022,15:30,Philadelphia 76ers,119,Chicago Bulls,108,0,20233.0,United Center,Philadelphia 76ers,False,-11,11
+808,Tue Feb 8 2022,19:00,Phoenix Suns,114,Philadelphia 76ers,109,0,20720.0,Wells Fargo Center,Phoenix Suns,False,-5,5
+833,Fri Feb 11 2022,19:00,Oklahoma City Thunder,87,Philadelphia 76ers,100,0,20669.0,Wells Fargo Center,Philadelphia 76ers,True,13,13
+842,Sat Feb 12 2022,19:30,Cleveland Cavaliers,93,Philadelphia 76ers,103,0,21057.0,Wells Fargo Center,Philadelphia 76ers,True,10,10
+862,Tue Feb 15 2022,19:30,Boston Celtics,135,Philadelphia 76ers,87,0,20960.0,Wells Fargo Center,Boston Celtics,False,-48,48
+881,Thu Feb 17 2022,20:30,Philadelphia 76ers,123,Milwaukee Bucks,120,0,17341.0,Fiserv Forum,Philadelphia 76ers,False,-3,3
+895,Fri Feb 25 2022,20:00,Philadelphia 76ers,133,Minnesota Timberwolves,102,0,16684.0,Target Center,Philadelphia 76ers,False,-31,31
+906,Sun Feb 27 2022,13:00,Philadelphia 76ers,125,New York Knicks,109,0,19812.0,Madison Square Garden (IV),Philadelphia 76ers,False,-16,16
+929,Wed Mar 2 2022,19:30,New York Knicks,108,Philadelphia 76ers,123,0,21333.0,Wells Fargo Center,Philadelphia 76ers,True,15,15
+943,Fri Mar 4 2022,19:00,Cleveland Cavaliers,119,Philadelphia 76ers,125,0,21391.0,Wells Fargo Center,Philadelphia 76ers,True,6,6
+954,Sat Mar 5 2022,20:00,Philadelphia 76ers,82,Miami Heat,99,0,19704.0,FTX Arena,Miami Heat,True,17,17
+966,Mon Mar 7 2022,19:00,Chicago Bulls,106,Philadelphia 76ers,121,0,20381.0,Wells Fargo Center,Philadelphia 76ers,True,15,15
+991,Thu Mar 10 2022,19:30,Brooklyn Nets,129,Philadelphia 76ers,100,0,21408.0,Wells Fargo Center,Brooklyn Nets,False,-29,29
+1013,Sun Mar 13 2022,18:00,Philadelphia 76ers,116,Orlando Magic,114,1,14444.0,Amway Center,Philadelphia 76ers,False,-2,2
+1020,Mon Mar 14 2022,19:30,Denver Nuggets,114,Philadelphia 76ers,110,0,21444.0,Wells Fargo Center,Denver Nuggets,False,-4,4
+1032,Wed Mar 16 2022,19:00,Philadelphia 76ers,118,Cleveland Cavaliers,114,0,19432.0,Rocket Mortgage Fieldhouse,Philadelphia 76ers,False,-4,4
+1044,Fri Mar 18 2022,19:00,Dallas Mavericks,101,Philadelphia 76ers,111,0,21428.0,Wells Fargo Center,Philadelphia 76ers,True,10,10
+1068,Sun Mar 20 2022,20:30,Toronto Raptors,93,Philadelphia 76ers,88,0,21180.0,Wells Fargo Center,Toronto Raptors,False,-5,5
+1073,Mon Mar 21 2022,19:30,Miami Heat,106,Philadelphia 76ers,113,0,21386.0,Wells Fargo Center,Philadelphia 76ers,True,7,7
+1091,Wed Mar 23 2022,22:00,Philadelphia 76ers,126,Los Angeles Lakers,121,0,18997.0,Crypto.com Arena,Philadelphia 76ers,False,-5,5
+1104,Fri Mar 25 2022,22:30,Philadelphia 76ers,122,Los Angeles Clippers,97,0,19068.0,Crypto.com Arena,Philadelphia 76ers,False,-25,25
+1115,Sun Mar 27 2022,18:00,Philadelphia 76ers,104,Phoenix Suns,114,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,10,10
+1129,Tue Mar 29 2022,19:00,Milwaukee Bucks,118,Philadelphia 76ers,116,0,21467.0,Wells Fargo Center,Milwaukee Bucks,False,-2,2
+1145,Thu Mar 31 2022,19:00,Philadelphia 76ers,94,Detroit Pistons,102,0,20023.0,Little Caesars Arena,Detroit Pistons,True,8,8
+1160,Sat Apr 2 2022,24:30,Charlotte Hornets,114,Philadelphia 76ers,144,0,21509.0,Wells Fargo Center,Philadelphia 76ers,True,30,30
+1169,Sun Apr 3 2022,18:00,Philadelphia 76ers,112,Cleveland Cavaliers,108,0,19432.0,Rocket Mortgage Fieldhouse,Philadelphia 76ers,False,-4,4
+1177,Tue Apr 5 2022,19:00,Philadelphia 76ers,131,Indiana Pacers,122,0,15583.0,Gainbridge Fieldhouse,Philadelphia 76ers,False,-9,9
+1197,Thu Apr 7 2022,19:30,Philadelphia 76ers,114,Toronto Raptors,119,0,19800.0,Scotiabank Arena,Toronto Raptors,True,5,5
+1211,Sat Apr 9 2022,13:00,Indiana Pacers,120,Philadelphia 76ers,133,0,21171.0,Wells Fargo Center,Philadelphia 76ers,True,13,13
+1222,Sun Apr 10 2022,19:00,Detroit Pistons,106,Philadelphia 76ers,118,0,21459.0,Wells Fargo Center,Philadelphia 76ers,True,12,12
+1238,Sat Apr 16 2022,18:00,Toronto Raptors,111,Philadelphia 76ers,131,0,20610.0,Wells Fargo Center,Philadelphia 76ers,True,20,20
+1244,Mon Apr 18 2022,19:30,Toronto Raptors,97,Philadelphia 76ers,112,0,20974.0,Wells Fargo Center,Philadelphia 76ers,True,15,15
+1251,Wed Apr 20 2022,20:00,Philadelphia 76ers,104,Toronto Raptors,101,1,19800.0,Scotiabank Arena,Philadelphia 76ers,False,-3,3
+1259,Sat Apr 23 2022,14:00,Philadelphia 76ers,102,Toronto Raptors,110,0,19800.0,Scotiabank Arena,Toronto Raptors,True,8,8
+1268,Mon Apr 25 2022,20:00,Toronto Raptors,103,Philadelphia 76ers,88,0,20517.0,Wells Fargo Center,Toronto Raptors,False,-15,15
+1275,Thu Apr 28 2022,19:00,Philadelphia 76ers,132,Toronto Raptors,97,0,19800.0,Scotiabank Arena,Philadelphia 76ers,False,-35,35
+1281,Mon May 2 2022,19:30,Philadelphia 76ers,92,Miami Heat,106,0,19620.0,FTX Arena,Miami Heat,True,14,14
+1285,Wed May 4 2022,19:30,Philadelphia 76ers,103,Miami Heat,119,0,19759.0,FTX Arena,Miami Heat,True,16,16
+1287,Fri May 6 2022,19:00,Miami Heat,79,Philadelphia 76ers,99,0,21033.0,Wells Fargo Center,Philadelphia 76ers,True,20,20
+1292,Sun May 8 2022,20:00,Miami Heat,108,Philadelphia 76ers,116,0,21194.0,Wells Fargo Center,Philadelphia 76ers,True,8,8
+1295,Tue May 10 2022,19:30,Philadelphia 76ers,85,Miami Heat,120,0,19868.0,FTX Arena,Miami Heat,True,35,35
+1299,Thu May 12 2022,19:00,Miami Heat,99,Philadelphia 76ers,90,0,21082.0,Wells Fargo Center,Miami Heat,False,-9,9

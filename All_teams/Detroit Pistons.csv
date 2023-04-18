@@ -1,0 +1,83 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+3,Wed Oct 20 2021,19:00,Chicago Bulls,94,Detroit Pistons,88,0,20088.0,Little Caesars Arena,Chicago Bulls,False,-6,6
+29,Sat Oct 23 2021,20:00,Detroit Pistons,82,Chicago Bulls,97,0,18888.0,United Center,Chicago Bulls,True,15,15
+45,Mon Oct 25 2021,19:30,Detroit Pistons,104,Atlanta Hawks,122,0,14209.0,State Farm Arena,Atlanta Hawks,True,18,18
+65,Thu Oct 28 2021,19:00,Detroit Pistons,102,Philadelphia 76ers,110,0,20017.0,Wells Fargo Center,Philadelphia 76ers,True,8,8
+78,Sat Oct 30 2021,19:00,Orlando Magic,103,Detroit Pistons,110,0,11423.0,Little Caesars Arena,Detroit Pistons,True,7,7
+91,Sun Oct 31 2021,19:30,Detroit Pistons,91,Brooklyn Nets,117,0,13507.0,Barclays Center,Brooklyn Nets,True,26,26
+102,Tue Nov 2 2021,19:00,Milwaukee Bucks,117,Detroit Pistons,89,0,9254.0,Little Caesars Arena,Milwaukee Bucks,False,-28,28
+118,Thu Nov 4 2021,19:00,Philadelphia 76ers,109,Detroit Pistons,98,0,8702.0,Little Caesars Arena,Philadelphia 76ers,False,-11,11
+123,Fri Nov 5 2021,19:00,Brooklyn Nets,96,Detroit Pistons,90,0,14235.0,Little Caesars Arena,Brooklyn Nets,False,-6,6
+160,Wed Nov 10 2021,19:30,Detroit Pistons,112,Houston Rockets,104,0,15350.0,Toyota Center,Detroit Pistons,False,-8,8
+175,Fri Nov 12 2021,19:30,Detroit Pistons,78,Cleveland Cavaliers,98,0,17095.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,20,20
+188,Sat Nov 13 2021,19:30,Detroit Pistons,127,Toronto Raptors,121,0,19800.0,Scotiabank Arena,Detroit Pistons,False,-6,6
+199,Mon Nov 15 2021,19:00,Sacramento Kings,129,Detroit Pistons,107,0,10092.0,Little Caesars Arena,Sacramento Kings,False,-22,22
+213,Wed Nov 17 2021,19:00,Indiana Pacers,89,Detroit Pistons,97,0,11457.0,Little Caesars Arena,Detroit Pistons,True,8,8
+230,Fri Nov 19 2021,19:00,Golden State Warriors,105,Detroit Pistons,102,0,20088.0,Little Caesars Arena,Golden State Warriors,False,-3,3
+248,Sun Nov 21 2021,18:00,Los Angeles Lakers,121,Detroit Pistons,116,0,15532.0,Little Caesars Arena,Los Angeles Lakers,False,-5,5
+262,Tue Nov 23 2021,19:00,Miami Heat,100,Detroit Pistons,92,0,13123.0,Little Caesars Arena,Miami Heat,False,-8,8
+272,Wed Nov 24 2021,20:00,Detroit Pistons,93,Milwaukee Bucks,114,0,17341.0,Fiserv Forum,Milwaukee Bucks,True,21,21
+279,Fri Nov 26 2021,15:30,Detroit Pistons,96,Los Angeles Clippers,107,0,18139.0,Crypto.com Arena,Los Angeles Clippers,True,11,11
+303,Sun Nov 28 2021,21:30,Detroit Pistons,106,Los Angeles Lakers,110,0,18997.0,Crypto.com Arena,Los Angeles Lakers,True,4,4
+316,Tue Nov 30 2021,22:00,Detroit Pistons,92,Portland Trail Blazers,110,0,16071.0,Moda Center,Portland Trail Blazers,True,18,18
+330,Thu Dec 2 2021,21:00,Detroit Pistons,103,Phoenix Suns,114,0,0.0,Phoenix Suns Arena,Phoenix Suns,True,11,11
+353,Mon Dec 6 2021,19:00,Oklahoma City Thunder,114,Detroit Pistons,103,0,10522.0,Little Caesars Arena,Oklahoma City Thunder,False,-11,11
+367,Wed Dec 8 2021,19:00,Washington Wizards,119,Detroit Pistons,116,1,10499.0,Little Caesars Arena,Washington Wizards,False,-3,3
+387,Fri Dec 10 2021,20:00,Detroit Pistons,93,New Orleans Pelicans,109,0,15828.0,Smoothie King Center,New Orleans Pelicans,True,16,16
+398,Sun Dec 12 2021,18:00,Brooklyn Nets,116,Detroit Pistons,104,0,15289.0,Little Caesars Arena,Brooklyn Nets,False,-12,12
+426,Thu Dec 16 2021,19:00,Detroit Pistons,113,Indiana Pacers,122,0,13596.0,Gainbridge Fieldhouse,Indiana Pacers,True,9,9
+438,Sat Dec 18 2021,24:00,Houston Rockets,116,Detroit Pistons,107,0,13722.0,Little Caesars Arena,Houston Rockets,False,-9,9
+445,Sun Dec 19 2021,18:00,Miami Heat,90,Detroit Pistons,100,0,15188.0,Little Caesars Arena,Detroit Pistons,True,10,10
+458,Tue Dec 21 2021,19:30,Detroit Pistons,91,New York Knicks,105,0,17906.0,Madison Square Garden (IV),New York Knicks,True,14,14
+470,Thu Dec 23 2021,19:30,Detroit Pistons,112,Miami Heat,115,0,19600.0,FTX Arena,Miami Heat,True,3,3
+488,Sun Dec 26 2021,19:00,Detroit Pistons,109,San Antonio Spurs,144,0,14715.0,AT&T Center,San Antonio Spurs,True,35,35
+506,Wed Dec 29 2021,19:00,New York Knicks,94,Detroit Pistons,85,0,18312.0,Little Caesars Arena,New York Knicks,False,-9,9
+528,Sat Jan 1 2022,19:00,San Antonio Spurs,116,Detroit Pistons,117,1,18911.0,Little Caesars Arena,Detroit Pistons,True,1,1
+544,Mon Jan 3 2022,20:00,Detroit Pistons,115,Milwaukee Bucks,106,0,17341.0,Fiserv Forum,Detroit Pistons,False,-9,9
+555,Wed Jan 5 2022,19:00,Detroit Pistons,111,Charlotte Hornets,140,0,14427.0,Spectrum Center,Charlotte Hornets,True,29,29
+567,Thu Jan 6 2022,20:00,Detroit Pistons,88,Memphis Grizzlies,118,0,12983.0,FedEx Forum,Memphis Grizzlies,True,30,30
+581,Sat Jan 8 2022,19:00,Orlando Magic,92,Detroit Pistons,97,0,18644.0,Little Caesars Arena,Detroit Pistons,True,5,5
+596,Mon Jan 10 2022,19:00,Utah Jazz,116,Detroit Pistons,126,0,17834.0,Little Caesars Arena,Detroit Pistons,True,10,10
+604,Tue Jan 11 2022,20:00,Detroit Pistons,87,Chicago Bulls,133,0,19886.0,United Center,Chicago Bulls,True,46,46
+623,Fri Jan 14 2022,19:00,Toronto Raptors,87,Detroit Pistons,103,0,18011.0,Little Caesars Arena,Detroit Pistons,True,16,16
+641,Sun Jan 16 2022,13:00,Phoenix Suns,135,Detroit Pistons,108,0,18178.0,Little Caesars Arena,Phoenix Suns,False,-27,27
+658,Tue Jan 18 2022,22:00,Detroit Pistons,86,Golden State Warriors,102,0,18064.0,Chase Center,Golden State Warriors,True,16,16
+670,Wed Jan 19 2022,22:00,Detroit Pistons,133,Sacramento Kings,131,0,12907.0,Golden 1 Center,Detroit Pistons,False,-2,2
+684,Fri Jan 21 2022,21:00,Detroit Pistons,101,Utah Jazz,111,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,10,10
+697,Sun Jan 23 2022,20:00,Detroit Pistons,111,Denver Nuggets,117,0,14060.0,Ball Arena,Denver Nuggets,True,6,6
+704,Tue Jan 25 2022,19:00,Denver Nuggets,110,Detroit Pistons,105,0,16023.0,Little Caesars Arena,Denver Nuggets,False,-5,5
+725,Fri Jan 28 2022,19:00,Detroit Pistons,103,Orlando Magic,119,0,13156.0,Amway Center,Orlando Magic,True,16,16
+745,Sun Jan 30 2022,18:00,Cleveland Cavaliers,105,Detroit Pistons,115,0,16811.0,Little Caesars Arena,Detroit Pistons,True,10,10
+758,Tue Feb 1 2022,19:00,New Orleans Pelicans,111,Detroit Pistons,101,0,15499.0,Little Caesars Arena,New Orleans Pelicans,False,-10,10
+774,Thu Feb 3 2022,19:00,Minnesota Timberwolves,128,Detroit Pistons,117,0,15523.0,Little Caesars Arena,Minnesota Timberwolves,False,-11,11
+781,Fri Feb 4 2022,19:00,Boston Celtics,102,Detroit Pistons,93,0,17584.0,Little Caesars Arena,Boston Celtics,False,-9,9
+797,Sun Feb 6 2022,15:30,Detroit Pistons,105,Minnesota Timberwolves,118,0,16487.0,Target Center,Minnesota Timberwolves,True,13,13
+813,Tue Feb 8 2022,20:30,Detroit Pistons,86,Dallas Mavericks,116,0,19200.0,American Airlines Center,Dallas Mavericks,True,30,30
+824,Thu Feb 10 2022,19:00,Memphis Grizzlies,132,Detroit Pistons,107,0,18744.0,Little Caesars Arena,Memphis Grizzlies,False,-25,25
+831,Fri Feb 11 2022,19:00,Charlotte Hornets,141,Detroit Pistons,119,0,20088.0,Little Caesars Arena,Charlotte Hornets,False,-22,22
+851,Mon Feb 14 2022,19:00,Detroit Pistons,94,Washington Wizards,103,0,10793.0,Capital One Arena,Washington Wizards,True,9,9
+868,Wed Feb 16 2022,19:30,Detroit Pistons,112,Boston Celtics,111,0,19156.0,TD Garden,Detroit Pistons,False,-1,1
+883,Thu Feb 24 2022,19:00,Cleveland Cavaliers,103,Detroit Pistons,106,0,15622.0,Little Caesars Arena,Detroit Pistons,True,3,3
+899,Sat Feb 26 2022,24:00,Boston Celtics,113,Detroit Pistons,104,0,19122.0,Little Caesars Arena,Boston Celtics,False,-9,9
+909,Sun Feb 27 2022,19:00,Detroit Pistons,127,Charlotte Hornets,126,1,15348.0,Spectrum Center,Detroit Pistons,False,-1,1
+921,Tue Mar 1 2022,19:00,Detroit Pistons,113,Washington Wizards,116,0,12122.0,Capital One Arena,Washington Wizards,True,3,3
+938,Thu Mar 3 2022,19:30,Detroit Pistons,108,Toronto Raptors,106,0,19548.0,Scotiabank Arena,Detroit Pistons,False,-2,2
+942,Fri Mar 4 2022,19:00,Indiana Pacers,106,Detroit Pistons,111,0,17244.0,Little Caesars Arena,Detroit Pistons,True,5,5
+965,Mon Mar 7 2022,19:00,Atlanta Hawks,110,Detroit Pistons,113,1,14942.0,Little Caesars Arena,Detroit Pistons,True,3,3
+980,Wed Mar 9 2022,19:00,Chicago Bulls,114,Detroit Pistons,108,0,18022.0,Little Caesars Arena,Chicago Bulls,False,-6,6
+995,Fri Mar 11 2022,19:30,Detroit Pistons,103,Boston Celtics,114,0,19156.0,TD Garden,Boston Celtics,True,11,11
+1011,Sun Mar 13 2022,15:00,Los Angeles Clippers,106,Detroit Pistons,102,0,19313.0,Little Caesars Arena,Los Angeles Clippers,False,-4,4
+1029,Tue Mar 15 2022,19:30,Detroit Pistons,98,Miami Heat,105,0,19600.0,FTX Arena,Miami Heat,True,7,7
+1043,Thu Mar 17 2022,19:00,Detroit Pistons,134,Orlando Magic,120,0,14369.0,Amway Center,Detroit Pistons,False,-14,14
+1058,Sat Mar 19 2022,20:00,Detroit Pistons,109,Cleveland Cavaliers,113,0,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,4,4
+1071,Mon Mar 21 2022,19:00,Portland Trail Blazers,119,Detroit Pistons,115,0,14923.0,Little Caesars Arena,Portland Trail Blazers,False,-4,4
+1083,Wed Mar 23 2022,19:00,Atlanta Hawks,101,Detroit Pistons,122,0,16212.0,Little Caesars Arena,Detroit Pistons,True,21,21
+1099,Fri Mar 25 2022,19:00,Washington Wizards,100,Detroit Pistons,97,0,18943.0,Little Caesars Arena,Washington Wizards,False,-3,3
+1113,Sun Mar 27 2022,15:30,New York Knicks,104,Detroit Pistons,102,0,19304.0,Little Caesars Arena,New York Knicks,False,-2,2
+1131,Tue Mar 29 2022,19:30,Detroit Pistons,123,Brooklyn Nets,130,0,17559.0,Barclays Center,Brooklyn Nets,True,7,7
+1145,Thu Mar 31 2022,19:00,Philadelphia 76ers,94,Detroit Pistons,102,0,20023.0,Little Caesars Arena,Detroit Pistons,True,8,8
+1156,Fri Apr 1 2022,20:00,Detroit Pistons,110,Oklahoma City Thunder,101,0,16961.0,Paycom Center,Detroit Pistons,False,-9,9
+1168,Sun Apr 3 2022,17:00,Detroit Pistons,121,Indiana Pacers,117,0,17407.0,Gainbridge Fieldhouse,Detroit Pistons,False,-4,4
+1189,Wed Apr 6 2022,19:00,Dallas Mavericks,131,Detroit Pistons,113,0,18422.0,Little Caesars Arena,Dallas Mavericks,False,-18,18
+1202,Fri Apr 8 2022,19:00,Milwaukee Bucks,131,Detroit Pistons,101,0,22088.0,Little Caesars Arena,Milwaukee Bucks,False,-30,30
+1222,Sun Apr 10 2022,19:00,Detroit Pistons,106,Philadelphia 76ers,118,0,21459.0,Wells Fargo Center,Philadelphia 76ers,True,12,12

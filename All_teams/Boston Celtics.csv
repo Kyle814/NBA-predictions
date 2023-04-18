@@ -1,0 +1,107 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+4,Wed Oct 20 2021,19:30,Boston Celtics,134,New York Knicks,138,2,19812.0,Madison Square Garden (IV),New York Knicks,True,4,4
+19,Fri Oct 22 2021,19:30,Toronto Raptors,115,Boston Celtics,83,0,19156.0,TD Garden,Toronto Raptors,False,-32,32
+35,Sun Oct 24 2021,19:00,Boston Celtics,107,Houston Rockets,97,0,16069.0,Toyota Center,Boston Celtics,False,-10,10
+40,Mon Oct 25 2021,19:00,Boston Celtics,140,Charlotte Hornets,129,1,17238.0,Spectrum Center,Boston Celtics,False,-11,11
+55,Wed Oct 27 2021,19:30,Washington Wizards,116,Boston Celtics,107,0,19156.0,TD Garden,Washington Wizards,False,-9,9
+77,Sat Oct 30 2021,17:00,Boston Celtics,112,Washington Wizards,115,2,15813.0,Capital One Arena,Washington Wizards,True,3,3
+97,Mon Nov 1 2021,19:30,Chicago Bulls,128,Boston Celtics,114,0,19156.0,TD Garden,Chicago Bulls,False,-14,14
+109,Wed Nov 3 2021,19:00,Boston Celtics,92,Orlando Magic,79,0,12735.0,Amway Center,Boston Celtics,False,-13,13
+120,Thu Nov 4 2021,19:30,Boston Celtics,95,Miami Heat,78,0,19600.0,FTX Arena,Boston Celtics,False,-17,17
+135,Sat Nov 6 2021,20:30,Boston Celtics,104,Dallas Mavericks,107,0,20052.0,American Airlines Center,Dallas Mavericks,True,3,3
+159,Wed Nov 10 2021,19:30,Toronto Raptors,88,Boston Celtics,104,0,19156.0,TD Garden,Boston Celtics,True,16,16
+174,Fri Nov 12 2021,19:30,Milwaukee Bucks,113,Boston Celtics,122,1,19156.0,TD Garden,Boston Celtics,True,9,9
+189,Sat Nov 13 2021,20:00,Boston Celtics,89,Cleveland Cavaliers,91,0,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,2,2
+198,Mon Nov 15 2021,19:00,Boston Celtics,98,Cleveland Cavaliers,92,0,17186.0,Rocket Mortgage Fieldhouse,Boston Celtics,False,-6,6
+214,Wed Nov 17 2021,19:30,Boston Celtics,99,Atlanta Hawks,110,0,16445.0,State Farm Arena,Atlanta Hawks,True,11,11
+231,Fri Nov 19 2021,19:30,Los Angeles Lakers,108,Boston Celtics,130,0,19156.0,TD Garden,Boston Celtics,True,22,22
+242,Sat Nov 20 2021,19:30,Oklahoma City Thunder,105,Boston Celtics,111,0,19156.0,TD Garden,Boston Celtics,True,6,6
+255,Mon Nov 22 2021,19:30,Houston Rockets,90,Boston Celtics,108,0,19156.0,TD Garden,Boston Celtics,True,18,18
+269,Wed Nov 24 2021,19:30,Brooklyn Nets,123,Boston Celtics,104,0,19156.0,TD Garden,Brooklyn Nets,False,-19,19
+286,Fri Nov 26 2021,20:30,Boston Celtics,88,San Antonio Spurs,96,0,15360.0,AT&T Center,San Antonio Spurs,True,8,8
+302,Sun Nov 28 2021,18:00,Boston Celtics,109,Toronto Raptors,97,0,19800.0,Scotiabank Arena,Boston Celtics,False,-12,12
+321,Wed Dec 1 2021,19:30,Philadelphia 76ers,87,Boston Celtics,88,0,19156.0,TD Garden,Boston Celtics,True,1,1
+338,Fri Dec 3 2021,21:00,Boston Celtics,130,Utah Jazz,137,0,18306.0,Vivint Smart Home Arena,Utah Jazz,True,7,7
+346,Sat Dec 4 2021,22:00,Boston Celtics,145,Portland Trail Blazers,117,0,18193.0,Moda Center,Boston Celtics,False,-28,28
+364,Tue Dec 7 2021,22:00,Boston Celtics,102,Los Angeles Lakers,117,0,18997.0,Crypto.com Arena,Los Angeles Lakers,True,15,15
+377,Wed Dec 8 2021,22:30,Boston Celtics,111,Los Angeles Clippers,114,0,17064.0,Crypto.com Arena,Los Angeles Clippers,True,3,3
+389,Fri Dec 10 2021,22:00,Boston Celtics,90,Phoenix Suns,111,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,21,21
+407,Mon Dec 13 2021,19:30,Milwaukee Bucks,103,Boston Celtics,117,0,19156.0,TD Garden,Boston Celtics,True,14,14
+432,Fri Dec 17 2021,19:30,Golden State Warriors,111,Boston Celtics,107,0,19156.0,TD Garden,Golden State Warriors,False,-4,4
+439,Sat Dec 18 2021,19:00,New York Knicks,107,Boston Celtics,114,0,19156.0,TD Garden,Boston Celtics,True,7,7
+451,Mon Dec 20 2021,19:30,Philadelphia 76ers,108,Boston Celtics,103,0,19156.0,TD Garden,Philadelphia 76ers,False,-5,5
+463,Wed Dec 22 2021,19:30,Cleveland Cavaliers,101,Boston Celtics,111,0,19156.0,TD Garden,Boston Celtics,True,10,10
+479,Sat Dec 25 2021,14:30,Boston Celtics,113,Milwaukee Bucks,117,0,17341.0,Fiserv Forum,Milwaukee Bucks,True,4,4
+493,Mon Dec 27 2021,20:00,Boston Celtics,103,Minnesota Timberwolves,108,0,15962.0,Target Center,Minnesota Timberwolves,True,5,5
+508,Wed Dec 29 2021,19:30,Los Angeles Clippers,91,Boston Celtics,82,0,19156.0,TD Garden,Los Angeles Clippers,False,-9,9
+517,Fri Dec 31 2021,13:00,Phoenix Suns,108,Boston Celtics,123,0,19156.0,TD Garden,Boston Celtics,True,15,15
+534,Sun Jan 2 2022,18:00,Orlando Magic,111,Boston Celtics,116,1,19156.0,TD Garden,Boston Celtics,True,5,5
+558,Wed Jan 5 2022,19:30,San Antonio Spurs,99,Boston Celtics,97,0,19156.0,TD Garden,San Antonio Spurs,False,-2,2
+566,Thu Jan 6 2022,19:30,Boston Celtics,105,New York Knicks,108,0,17529.0,Madison Square Garden (IV),New York Knicks,True,3,3
+583,Sat Jan 8 2022,19:30,New York Knicks,75,Boston Celtics,99,0,19156.0,TD Garden,Boston Celtics,True,24,24
+597,Mon Jan 10 2022,19:30,Indiana Pacers,98,Boston Celtics,101,1,19156.0,TD Garden,Boston Celtics,True,3,3
+608,Wed Jan 12 2022,19:00,Boston Celtics,119,Indiana Pacers,100,0,13560.0,Gainbridge Fieldhouse,Boston Celtics,False,-19,19
+625,Fri Jan 14 2022,19:00,Boston Celtics,99,Philadelphia 76ers,111,0,20444.0,Wells Fargo Center,Philadelphia 76ers,True,12,12
+637,Sat Jan 15 2022,20:30,Chicago Bulls,112,Boston Celtics,114,0,19156.0,TD Garden,Boston Celtics,True,2,2
+645,Mon Jan 17 2022,24:30,New Orleans Pelicans,92,Boston Celtics,104,0,19156.0,TD Garden,Boston Celtics,True,12,12
+662,Wed Jan 19 2022,19:30,Charlotte Hornets,111,Boston Celtics,102,0,19156.0,TD Garden,Charlotte Hornets,False,-9,9
+679,Fri Jan 21 2022,19:30,Portland Trail Blazers,109,Boston Celtics,105,0,19156.0,TD Garden,Portland Trail Blazers,False,-4,4
+690,Sun Jan 23 2022,15:30,Boston Celtics,116,Washington Wizards,87,0,16371.0,Capital One Arena,Boston Celtics,False,-29,29
+708,Tue Jan 25 2022,19:30,Sacramento Kings,75,Boston Celtics,128,0,19156.0,TD Garden,Boston Celtics,True,53,53
+726,Fri Jan 28 2022,19:30,Boston Celtics,92,Atlanta Hawks,108,0,16932.0,State Farm Arena,Atlanta Hawks,True,16,16
+737,Sat Jan 29 2022,19:00,Boston Celtics,107,New Orleans Pelicans,97,0,16168.0,Smoothie King Center,Boston Celtics,False,-10,10
+754,Mon Jan 31 2022,19:30,Miami Heat,92,Boston Celtics,122,0,19156.0,TD Garden,Boston Celtics,True,30,30
+767,Wed Feb 2 2022,19:30,Charlotte Hornets,107,Boston Celtics,113,0,19156.0,TD Garden,Boston Celtics,True,6,6
+781,Fri Feb 4 2022,19:00,Boston Celtics,102,Detroit Pistons,93,0,17584.0,Little Caesars Arena,Boston Celtics,False,-9,9
+800,Sun Feb 6 2022,18:00,Boston Celtics,116,Orlando Magic,83,0,14402.0,Amway Center,Boston Celtics,False,-33,33
+810,Tue Feb 8 2022,19:30,Boston Celtics,126,Brooklyn Nets,91,0,17732.0,Barclays Center,Boston Celtics,False,-35,35
+835,Fri Feb 11 2022,19:30,Denver Nuggets,102,Boston Celtics,108,0,19156.0,TD Garden,Boston Celtics,True,6,6
+849,Sun Feb 13 2022,14:00,Atlanta Hawks,95,Boston Celtics,105,0,19156.0,TD Garden,Boston Celtics,True,10,10
+862,Tue Feb 15 2022,19:30,Boston Celtics,135,Philadelphia 76ers,87,0,20960.0,Wells Fargo Center,Boston Celtics,False,-48,48
+868,Wed Feb 16 2022,19:30,Detroit Pistons,112,Boston Celtics,111,0,19156.0,TD Garden,Detroit Pistons,False,-1,1
+884,Thu Feb 24 2022,19:30,Boston Celtics,129,Brooklyn Nets,106,0,17986.0,Barclays Center,Boston Celtics,False,-23,23
+899,Sat Feb 26 2022,24:00,Boston Celtics,113,Detroit Pistons,104,0,19122.0,Little Caesars Arena,Boston Celtics,False,-9,9
+908,Sun Feb 27 2022,17:00,Boston Celtics,107,Indiana Pacers,128,0,16872.0,Gainbridge Fieldhouse,Indiana Pacers,True,21,21
+922,Tue Mar 1 2022,19:30,Atlanta Hawks,98,Boston Celtics,107,0,19156.0,TD Garden,Boston Celtics,True,9,9
+936,Thu Mar 3 2022,19:30,Memphis Grizzlies,107,Boston Celtics,120,0,19156.0,TD Garden,Boston Celtics,True,13,13
+957,Sun Mar 6 2022,13:00,Brooklyn Nets,120,Boston Celtics,126,0,19156.0,TD Garden,Boston Celtics,True,6,6
+979,Wed Mar 9 2022,19:00,Boston Celtics,115,Charlotte Hornets,101,0,18086.0,Spectrum Center,Boston Celtics,False,-14,14
+995,Fri Mar 11 2022,19:30,Detroit Pistons,103,Boston Celtics,114,0,19156.0,TD Garden,Boston Celtics,True,11,11
+1012,Sun Mar 13 2022,15:30,Dallas Mavericks,95,Boston Celtics,92,0,19156.0,TD Garden,Dallas Mavericks,False,-3,3
+1040,Wed Mar 16 2022,22:00,Boston Celtics,110,Golden State Warriors,88,0,18064.0,Chase Center,Boston Celtics,False,-22,22
+1055,Fri Mar 18 2022,22:00,Boston Celtics,126,Sacramento Kings,97,0,15313.0,Golden 1 Center,Boston Celtics,False,-29,29
+1066,Sun Mar 20 2022,20:00,Boston Celtics,124,Denver Nuggets,104,0,19602.0,Ball Arena,Boston Celtics,False,-20,20
+1076,Mon Mar 21 2022,20:00,Boston Celtics,132,Oklahoma City Thunder,123,0,15345.0,Paycom Center,Boston Celtics,False,-9,9
+1085,Wed Mar 23 2022,19:30,Utah Jazz,97,Boston Celtics,125,0,19156.0,TD Garden,Boston Celtics,True,28,28
+1114,Sun Mar 27 2022,18:00,Minnesota Timberwolves,112,Boston Celtics,134,0,19156.0,TD Garden,Boston Celtics,True,22,22
+1125,Mon Mar 28 2022,19:30,Boston Celtics,112,Toronto Raptors,115,1,19800.0,Scotiabank Arena,Toronto Raptors,True,3,3
+1137,Wed Mar 30 2022,19:30,Miami Heat,106,Boston Celtics,98,0,19156.0,TD Garden,Miami Heat,False,-8,8
+1152,Fri Apr 1 2022,19:30,Indiana Pacers,123,Boston Celtics,128,0,19156.0,TD Garden,Boston Celtics,True,5,5
+1165,Sun Apr 3 2022,13:00,Washington Wizards,102,Boston Celtics,144,0,19156.0,TD Garden,Boston Celtics,True,42,42
+1192,Wed Apr 6 2022,20:00,Boston Celtics,117,Chicago Bulls,94,0,21095.0,United Center,Boston Celtics,False,-23,23
+1196,Thu Apr 7 2022,19:30,Boston Celtics,121,Milwaukee Bucks,127,0,18046.0,Fiserv Forum,Milwaukee Bucks,True,6,6
+1219,Sun Apr 10 2022,19:00,Boston Celtics,139,Memphis Grizzlies,110,0,17441.0,FedEx Forum,Boston Celtics,False,-29,29
+1241,Sun Apr 17 2022,15:30,Brooklyn Nets,114,Boston Celtics,115,0,19156.0,TD Garden,Boston Celtics,True,1,1
+1250,Wed Apr 20 2022,19:00,Brooklyn Nets,107,Boston Celtics,114,0,19156.0,TD Garden,Boston Celtics,True,7,7
+1261,Sat Apr 23 2022,19:30,Boston Celtics,109,Brooklyn Nets,103,0,18175.0,Barclays Center,Boston Celtics,False,-6,6
+1267,Mon Apr 25 2022,19:00,Boston Celtics,116,Brooklyn Nets,112,0,18099.0,Barclays Center,Boston Celtics,False,-4,4
+1279,Sun May 1 2022,13:00,Milwaukee Bucks,101,Boston Celtics,89,0,19156.0,TD Garden,Milwaukee Bucks,False,-12,12
+1283,Tue May 3 2022,19:00,Milwaukee Bucks,86,Boston Celtics,109,0,19156.0,TD Garden,Boston Celtics,True,23,23
+1289,Sat May 7 2022,15:30,Boston Celtics,101,Milwaukee Bucks,103,0,17736.0,Fiserv Forum,Milwaukee Bucks,True,2,2
+1293,Mon May 9 2022,19:30,Boston Celtics,116,Milwaukee Bucks,108,0,17505.0,Fiserv Forum,Boston Celtics,False,-8,8
+1297,Wed May 11 2022,19:00,Milwaukee Bucks,110,Boston Celtics,107,0,19156.0,TD Garden,Milwaukee Bucks,False,-3,3
+1301,Fri May 13 2022,19:30,Boston Celtics,108,Milwaukee Bucks,95,0,17681.0,Fiserv Forum,Boston Celtics,False,-13,13
+1303,Sun May 15 2022,15:30,Milwaukee Bucks,81,Boston Celtics,109,0,19156.0,TD Garden,Boston Celtics,True,28,28
+1305,Tue May 17 2022,20:30,Boston Celtics,107,Miami Heat,118,0,19774.0,FTX Arena,Miami Heat,True,11,11
+1307,Thu May 19 2022,20:30,Boston Celtics,127,Miami Heat,102,0,20100.0,FTX Arena,Boston Celtics,False,-25,25
+1309,Sat May 21 2022,20:30,Miami Heat,109,Boston Celtics,103,0,19156.0,TD Garden,Miami Heat,False,-6,6
+1311,Mon May 23 2022,20:30,Miami Heat,82,Boston Celtics,102,0,19156.0,TD Garden,Boston Celtics,True,20,20
+1313,Wed May 25 2022,20:30,Boston Celtics,93,Miami Heat,80,0,19819.0,FTX Arena,Boston Celtics,False,-13,13
+1315,Fri May 27 2022,20:30,Miami Heat,111,Boston Celtics,103,0,19156.0,TD Garden,Miami Heat,False,-8,8
+1316,Sun May 29 2022,20:30,Boston Celtics,100,Miami Heat,96,0,20200.0,FTX Arena,Boston Celtics,False,-4,4
+1317,Thu Jun 2 2022,21:00,Boston Celtics,120,Golden State Warriors,108,0,18064.0,Chase Center,Boston Celtics,False,-12,12
+1318,Sun Jun 5 2022,20:00,Boston Celtics,88,Golden State Warriors,107,0,18064.0,Chase Center,Golden State Warriors,True,19,19
+1319,Wed Jun 8 2022,21:00,Golden State Warriors,100,Boston Celtics,116,0,19156.0,TD Garden,Boston Celtics,True,16,16
+1320,Fri Jun 10 2022,21:00,Golden State Warriors,107,Boston Celtics,97,0,19156.0,TD Garden,Golden State Warriors,False,-10,10
+1321,Mon Jun 13 2022,21:00,Boston Celtics,94,Golden State Warriors,104,0,18064.0,Chase Center,Golden State Warriors,True,10,10
+1322,Thu Jun 16 2022,21:00,Golden State Warriors,103,Boston Celtics,90,0,19156.0,TD Garden,Golden State Warriors,False,-13,13

@@ -1,0 +1,83 @@
+,Date,Start (ET),Visitor,PTS,Home,PTS.1,Overtimes,Attend.,Arena,Winner,Home_team_win,Home_team_win_margin,Winner_Margin
+2,Wed Oct 20 2021,19:00,Indiana Pacers,122,Charlotte Hornets,123,0,15521.0,Spectrum Center,Charlotte Hornets,True,1,1
+17,Fri Oct 22 2021,19:00,Indiana Pacers,134,Washington Wizards,135,1,15407.0,Capital One Arena,Washington Wizards,True,1,1
+27,Sat Oct 23 2021,19:00,Miami Heat,91,Indiana Pacers,102,1,17147.0,Gainbridge Fieldhouse,Indiana Pacers,True,11,11
+41,Mon Oct 25 2021,19:00,Milwaukee Bucks,119,Indiana Pacers,109,0,10339.0,Gainbridge Fieldhouse,Milwaukee Bucks,False,-10,10
+57,Wed Oct 27 2021,19:30,Indiana Pacers,100,Toronto Raptors,118,0,19800.0,Scotiabank Arena,Toronto Raptors,True,18,18
+72,Fri Oct 29 2021,19:30,Indiana Pacers,98,Brooklyn Nets,105,0,16139.0,Barclays Center,Brooklyn Nets,True,7,7
+80,Sat Oct 30 2021,19:30,Toronto Raptors,97,Indiana Pacers,94,0,10578.0,Gainbridge Fieldhouse,Toronto Raptors,False,-3,3
+94,Mon Nov 1 2021,19:00,San Antonio Spurs,118,Indiana Pacers,131,0,10227.0,Gainbridge Fieldhouse,Indiana Pacers,True,13,13
+108,Wed Nov 3 2021,19:00,New York Knicks,98,Indiana Pacers,111,0,11607.0,Gainbridge Fieldhouse,Indiana Pacers,True,13,13
+130,Fri Nov 5 2021,22:00,Indiana Pacers,106,Portland Trail Blazers,110,0,16841.0,Moda Center,Portland Trail Blazers,True,4,4
+141,Sun Nov 7 2021,18:00,Indiana Pacers,94,Sacramento Kings,91,0,12993.0,Golden 1 Center,Indiana Pacers,False,-3,3
+166,Wed Nov 10 2021,21:00,Indiana Pacers,98,Denver Nuggets,101,0,15232.0,Ball Arena,Denver Nuggets,True,3,3
+171,Thu Nov 11 2021,21:00,Indiana Pacers,111,Utah Jazz,100,0,18306.0,Vivint Smart Home Arena,Indiana Pacers,False,-11,11
+185,Sat Nov 13 2021,19:00,Philadelphia 76ers,113,Indiana Pacers,118,0,14483.0,Gainbridge Fieldhouse,Indiana Pacers,True,5,5
+202,Mon Nov 15 2021,19:30,Indiana Pacers,84,New York Knicks,92,0,16792.0,Madison Square Garden (IV),New York Knicks,True,8,8
+213,Wed Nov 17 2021,19:00,Indiana Pacers,89,Detroit Pistons,97,0,11457.0,Little Caesars Arena,Detroit Pistons,True,8,8
+229,Fri Nov 19 2021,19:00,Indiana Pacers,118,Charlotte Hornets,121,0,16787.0,Spectrum Center,Charlotte Hornets,True,3,3
+239,Sat Nov 20 2021,19:00,New Orleans Pelicans,94,Indiana Pacers,111,0,15081.0,Gainbridge Fieldhouse,Indiana Pacers,True,17,17
+256,Mon Nov 22 2021,20:00,Indiana Pacers,109,Chicago Bulls,77,0,21586.0,United Center,Indiana Pacers,False,-32,32
+267,Wed Nov 24 2021,19:00,Los Angeles Lakers,124,Indiana Pacers,116,1,15572.0,Gainbridge Fieldhouse,Los Angeles Lakers,False,-8,8
+283,Fri Nov 26 2021,20:00,Toronto Raptors,97,Indiana Pacers,114,0,13508.0,Gainbridge Fieldhouse,Indiana Pacers,True,17,17
+300,Sun Nov 28 2021,17:00,Milwaukee Bucks,118,Indiana Pacers,100,0,13130.0,Gainbridge Fieldhouse,Milwaukee Bucks,False,-18,18
+308,Mon Nov 29 2021,20:00,Indiana Pacers,98,Minnesota Timberwolves,100,0,14191.0,Target Center,Minnesota Timberwolves,True,2,2
+318,Wed Dec 1 2021,19:00,Atlanta Hawks,114,Indiana Pacers,111,0,12656.0,Gainbridge Fieldhouse,Atlanta Hawks,False,-3,3
+332,Fri Dec 3 2021,19:00,Miami Heat,113,Indiana Pacers,104,0,13854.0,Gainbridge Fieldhouse,Miami Heat,False,-9,9
+354,Mon Dec 6 2021,19:00,Washington Wizards,110,Indiana Pacers,116,0,12581.0,Gainbridge Fieldhouse,Indiana Pacers,True,6,6
+368,Wed Dec 8 2021,19:00,New York Knicks,102,Indiana Pacers,122,0,13167.0,Gainbridge Fieldhouse,Indiana Pacers,True,20,20
+382,Fri Dec 10 2021,19:00,Dallas Mavericks,93,Indiana Pacers,106,0,12618.0,Gainbridge Fieldhouse,Indiana Pacers,True,13,13
+404,Mon Dec 13 2021,19:00,Golden State Warriors,102,Indiana Pacers,100,0,17018.0,Gainbridge Fieldhouse,Golden State Warriors,False,-2,2
+419,Wed Dec 15 2021,20:00,Indiana Pacers,99,Milwaukee Bucks,114,0,17341.0,Fiserv Forum,Milwaukee Bucks,True,15,15
+426,Thu Dec 16 2021,19:00,Detroit Pistons,113,Indiana Pacers,122,0,13596.0,Gainbridge Fieldhouse,Indiana Pacers,True,9,9
+457,Tue Dec 21 2021,19:30,Indiana Pacers,96,Miami Heat,125,0,19600.0,FTX Arena,Miami Heat,True,29,29
+467,Thu Dec 23 2021,19:00,Houston Rockets,106,Indiana Pacers,118,0,15089.0,Gainbridge Fieldhouse,Indiana Pacers,True,12,12
+489,Sun Dec 26 2021,20:00,Indiana Pacers,105,Chicago Bulls,113,0,20475.0,United Center,Chicago Bulls,True,8,8
+507,Wed Dec 29 2021,19:00,Charlotte Hornets,116,Indiana Pacers,108,0,17608.0,Gainbridge Fieldhouse,Charlotte Hornets,False,-8,8
+518,Fri Dec 31 2021,15:00,Chicago Bulls,108,Indiana Pacers,106,0,17515.0,Gainbridge Fieldhouse,Chicago Bulls,False,-2,2
+535,Sun Jan 2 2022,18:00,Indiana Pacers,104,Cleveland Cavaliers,108,0,17808.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,4,4
+552,Tue Jan 4 2022,19:30,Indiana Pacers,94,New York Knicks,104,0,18449.0,Madison Square Garden (IV),New York Knicks,True,10,10
+560,Wed Jan 5 2022,19:30,Brooklyn Nets,129,Indiana Pacers,121,0,14176.0,Gainbridge Fieldhouse,Brooklyn Nets,False,-8,8
+582,Sat Jan 8 2022,19:00,Utah Jazz,113,Indiana Pacers,125,0,13160.0,Gainbridge Fieldhouse,Indiana Pacers,True,12,12
+597,Mon Jan 10 2022,19:30,Indiana Pacers,98,Boston Celtics,101,1,19156.0,TD Garden,Boston Celtics,True,3,3
+608,Wed Jan 12 2022,19:00,Boston Celtics,119,Indiana Pacers,100,0,13560.0,Gainbridge Fieldhouse,Boston Celtics,False,-19,19
+624,Fri Jan 14 2022,19:00,Phoenix Suns,112,Indiana Pacers,94,0,14019.0,Gainbridge Fieldhouse,Phoenix Suns,False,-18,18
+649,Mon Jan 17 2022,15:30,Indiana Pacers,133,Los Angeles Clippers,139,0,15080.0,Crypto.com Arena,Los Angeles Clippers,True,6,6
+671,Wed Jan 19 2022,22:30,Indiana Pacers,111,Los Angeles Lakers,104,0,17818.0,Crypto.com Arena,Indiana Pacers,False,-7,7
+674,Thu Jan 20 2022,22:00,Indiana Pacers,121,Golden State Warriors,117,1,18064.0,Chase Center,Indiana Pacers,False,-4,4
+688,Sat Jan 22 2022,21:00,Indiana Pacers,103,Phoenix Suns,113,0,17071.0,Phoenix Suns Arena,Phoenix Suns,True,10,10
+701,Mon Jan 24 2022,20:00,Indiana Pacers,113,New Orleans Pelicans,117,0,15581.0,Smoothie King Center,New Orleans Pelicans,True,4,4
+714,Wed Jan 26 2022,19:00,Charlotte Hornets,158,Indiana Pacers,126,0,14116.0,Gainbridge Fieldhouse,Charlotte Hornets,False,-32,32
+732,Fri Jan 28 2022,20:00,Indiana Pacers,113,Oklahoma City Thunder,110,1,15106.0,Paycom Center,Indiana Pacers,False,-3,3
+736,Sat Jan 29 2022,19:00,Indiana Pacers,105,Dallas Mavericks,132,0,19831.0,American Airlines Center,Dallas Mavericks,True,27,27
+751,Mon Jan 31 2022,19:00,Los Angeles Clippers,116,Indiana Pacers,122,0,14629.0,Gainbridge Fieldhouse,Indiana Pacers,True,6,6
+765,Wed Feb 2 2022,19:00,Orlando Magic,119,Indiana Pacers,118,0,14528.0,Gainbridge Fieldhouse,Orlando Magic,False,-1,1
+782,Fri Feb 4 2022,19:00,Chicago Bulls,122,Indiana Pacers,115,0,16355.0,Gainbridge Fieldhouse,Chicago Bulls,False,-7,7
+798,Sun Feb 6 2022,18:00,Indiana Pacers,85,Cleveland Cavaliers,98,0,19432.0,Rocket Mortgage Fieldhouse,Cleveland Cavaliers,True,13,13
+809,Tue Feb 8 2022,19:30,Indiana Pacers,112,Atlanta Hawks,133,0,14265.0,State Farm Arena,Atlanta Hawks,True,21,21
+832,Fri Feb 11 2022,19:00,Cleveland Cavaliers,120,Indiana Pacers,113,0,15075.0,Gainbridge Fieldhouse,Cleveland Cavaliers,False,-7,7
+850,Sun Feb 13 2022,15:00,Minnesota Timberwolves,129,Indiana Pacers,120,0,13532.0,Gainbridge Fieldhouse,Minnesota Timberwolves,False,-9,9
+863,Tue Feb 15 2022,20:00,Indiana Pacers,119,Milwaukee Bucks,128,0,17341.0,Fiserv Forum,Milwaukee Bucks,True,9,9
+869,Wed Feb 16 2022,19:30,Washington Wizards,108,Indiana Pacers,113,0,14540.0,Gainbridge Fieldhouse,Indiana Pacers,True,5,5
+891,Fri Feb 25 2022,19:00,Oklahoma City Thunder,129,Indiana Pacers,125,1,15182.0,Gainbridge Fieldhouse,Oklahoma City Thunder,False,-4,4
+908,Sun Feb 27 2022,17:00,Boston Celtics,107,Indiana Pacers,128,0,16872.0,Gainbridge Fieldhouse,Indiana Pacers,True,21,21
+915,Mon Feb 28 2022,19:00,Indiana Pacers,103,Orlando Magic,119,0,13014.0,Amway Center,Orlando Magic,True,16,16
+928,Wed Mar 2 2022,19:00,Indiana Pacers,122,Orlando Magic,114,1,11221.0,Amway Center,Indiana Pacers,False,-8,8
+942,Fri Mar 4 2022,19:00,Indiana Pacers,106,Detroit Pistons,111,0,17244.0,Little Caesars Arena,Detroit Pistons,True,5,5
+959,Sun Mar 6 2022,18:00,Indiana Pacers,123,Washington Wizards,133,0,13937.0,Capital One Arena,Washington Wizards,True,10,10
+974,Tue Mar 8 2022,19:00,Cleveland Cavaliers,127,Indiana Pacers,124,0,14066.0,Gainbridge Fieldhouse,Cleveland Cavaliers,False,-3,3
+1005,Sat Mar 12 2022,20:00,Indiana Pacers,119,San Antonio Spurs,108,0,14605.0,AT&T Center,Indiana Pacers,False,-11,11
+1014,Sun Mar 13 2022,19:00,Indiana Pacers,128,Atlanta Hawks,131,0,17038.0,State Farm Arena,Atlanta Hawks,True,3,3
+1027,Tue Mar 15 2022,19:00,Memphis Grizzlies,135,Indiana Pacers,102,0,15027.0,Gainbridge Fieldhouse,Memphis Grizzlies,False,-33,33
+1050,Fri Mar 18 2022,20:00,Indiana Pacers,121,Houston Rockets,118,0,13748.0,Toyota Center,Indiana Pacers,False,-3,3
+1061,Sun Mar 20 2022,15:30,Portland Trail Blazers,98,Indiana Pacers,129,0,16067.0,Gainbridge Fieldhouse,Indiana Pacers,True,31,31
+1084,Wed Mar 23 2022,19:00,Sacramento Kings,110,Indiana Pacers,109,0,14227.0,Gainbridge Fieldhouse,Sacramento Kings,False,-1,1
+1094,Thu Mar 24 2022,20:00,Indiana Pacers,103,Memphis Grizzlies,133,0,16205.0,FedEx Forum,Memphis Grizzlies,True,30,30
+1107,Sat Mar 26 2022,19:30,Indiana Pacers,91,Toronto Raptors,131,0,19800.0,Scotiabank Arena,Toronto Raptors,True,40,40
+1122,Mon Mar 28 2022,19:00,Atlanta Hawks,132,Indiana Pacers,123,0,14212.0,Gainbridge Fieldhouse,Atlanta Hawks,False,-9,9
+1135,Wed Mar 30 2022,19:00,Denver Nuggets,125,Indiana Pacers,118,0,15036.0,Gainbridge Fieldhouse,Denver Nuggets,False,-7,7
+1152,Fri Apr 1 2022,19:30,Indiana Pacers,123,Boston Celtics,128,0,19156.0,TD Garden,Boston Celtics,True,5,5
+1168,Sun Apr 3 2022,17:00,Detroit Pistons,121,Indiana Pacers,117,0,17407.0,Gainbridge Fieldhouse,Detroit Pistons,False,-4,4
+1177,Tue Apr 5 2022,19:00,Philadelphia 76ers,131,Indiana Pacers,122,0,15583.0,Gainbridge Fieldhouse,Philadelphia 76ers,False,-9,9
+1211,Sat Apr 9 2022,13:00,Indiana Pacers,120,Philadelphia 76ers,133,0,21171.0,Wells Fargo Center,Philadelphia 76ers,True,13,13
+1215,Sun Apr 10 2022,15:30,Indiana Pacers,126,Brooklyn Nets,134,0,17967.0,Barclays Center,Brooklyn Nets,True,8,8
