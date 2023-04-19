@@ -1,0 +1,5 @@
+# High Rollers: Predicting the Outcomes of NBA Games
+
+All of our data is stored in the CSVs folder; consult the README.md inside that folder for a thorough explanation of what the data is and how it's used. Our regression analysis is in "analysis.py," which uses linear regression to predict the points differential of a game given averaged player stats of each team. See our presentation and the code itself for more explanation.
+
+The other code is largely data processing; while pandas does not require a schema as it is often more efficient to pull and merge only the data required for that specific analysis in the code itself, it's still necessary to get that data in an analyzable form. For cleaner workflow and better memory usage, we use separate Python files to process our CSVs and save them as new CSVs to funnel into our analysis code. "All_teams_organizer.ipynb" and "nba2021-2022(organizing_data).ipynb)" organize the data in the 2022-games and All_teams folders, while "nbawholeteams_processor.py" is an auxillary processor to "analysis.py" that isolates the dependent variable that "analysis.py" is looking for.

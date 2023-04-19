@@ -1,0 +1,8 @@
+# CSVs
+This folder contains the CSVs containing the data that we used for our analysis. All data is from https://www.basketball-reference.com/.
+
+## Team Stats
+Team Stats contains the total stats calculated by Basketball Reference for each NBA season. The year in the name corresponds to the starting year of the season (so 2021-stats.csv is for the 2021-2022 season and so on), and the suffix indicates what specific data is in the file. "\*-stats.csv" contains the direct stats from Basketball Reference for every player in the NBA, and "\*-avgs.csv" contains the stats from the respective year's "\*-stats.csv" averaged over each team. We use the averaged team stats in "2021-avgs.csv" for our analysis to measure how the teams perform and stack up against each other at a more general level. *We did not use the earlier seasons, since they took place during the pandemic and would have included unpredictable variables we wouldn't be able to account for.* "loader.py" is what converts the "\*-stats.csv" data to the "\*-avgs.csv" data, and finally "allstatsavg.csv" averages the averaged player stats across all the seasons as well.
+
+## 2022_games and All_teams
+2022_games contains data on the games from the 2021-2022 season, detailing the time, fan attendance, who the home and away teams were, who won, and by how much. That data is processed and sent into All_teams, which categorizes the games by individual teams and also includes an aggregated "nbawholeteams.csv" which includes every game. This was trimmed and cloned into "nbawholeteamstrimmed.csv" for the regression analysis, but the other data is used in other aspects of our analysis as well.
